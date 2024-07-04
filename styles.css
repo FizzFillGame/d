@@ -1,14 +1,19 @@
+a:visited {
+    color: #ffffff;
+}
+
+
 .app-list-new {
-            width: 100%;
-            max-width: 800px;
-            height: 600px;
-            overflow: hidden;
-            border-radius: 10px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-            margin: 0 auto;
-            background-color: #1c1c1c;
-            position: relative;
-        }
+    width: 100%;
+    max-width: 95%;
+    height: 565px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+    background-color: #1c1c1c;
+    position: relative;
+}
 
         .scroll-container {
             display: flex;
@@ -26,15 +31,16 @@
             }
         }
 
-        .app-item-new {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 10px 20px;
-            background: rgba(255, 255, 255, 0.1);
-            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-            animation: slideIn 0.5s ease-in-out;
-        }
+       .app-item-new {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: rgba(255, 255, 255, 0.1);
+    /* border-bottom: 1px solid rgba(255, 255, 255, 0.2); */
+    background: linear-gradient(to top, #212220, #262725);
+    animation: slideIn 0.5s ease-in-out;
+}
         .app-item-new:last-child {
             border-bottom: none;
         }
@@ -81,7 +87,7 @@
             background: green;
         }
         .status-new .update-available-new {
-            background: blue;
+            background: #3cff54;
         }
         .update-button-new {
             background: #7f66f8;
