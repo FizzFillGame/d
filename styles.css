@@ -1,14 +1,31 @@
- .app-list-new {
+.app-list-new {
             width: 100%;
             max-width: 800px;
             height: 600px;
-            overflow-y: auto;
-            border-radius: 10px;
             overflow: hidden;
+            border-radius: 10px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-            margin: 0 auto; /* Center the list horizontally */
-            background-color: #1c1c1c; /* Add a background color */
+            margin: 0 auto;
+            background-color: #1c1c1c;
+            position: relative;
         }
+
+        .scroll-container {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            animation: scrollUp 10s linear infinite;
+        }
+
+        @keyframes scrollUp {
+            0% {
+                transform: translateY(100%);
+            }
+            100% {
+                transform: translateY(-100%);
+            }
+        }
+
         .app-item-new {
             display: flex;
             justify-content: space-between;
@@ -73,21 +90,11 @@
             padding: 5px 10px;
             border-radius: 5px;
             cursor: pointer;
-            width: 110px; /* Set width of the button */
+            width: 110px;
             text-align: center;
             text-decoration: none;
         }
         .update-button-new:disabled {
             background: grey;
             cursor: not-allowed;
-        }
-        @keyframes slideIn {
-            from {
-                transform: translateY(100%);
-                opacity: 0;
-            }
-            to {
-                transform: translateY(0);
-                opacity: 1;
-            }
         }
