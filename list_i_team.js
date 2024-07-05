@@ -252,7 +252,7 @@ const hairstyleItems = [
   ];
   const handItems = [ 
 
- { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj814Ed6T5l5GxYJFXG2nJyLEXSCicGjbOnvP38hUOO2Vgsxe0DDRm6W4b_MALQqC1I2tBeYh6l637G2xI61-P68TalXATp1hXhDEid961NeCBMYRtIArdx6Zx45FsIjUlMmsoNNswVUqTeHPOszYHyrJ-JsZDa_7Pq5vIgulCZoGUCxtxDRnSdHjXYzts/s1600/Spiderman-Gloves.png', 'name': 'Spiderman Gloves', 'level': 'Legend', 'hitAtk': 110, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 110, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': 0, 'sp': '850', 'cri': '7.5', 'dcri': '' },
+ { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj814Ed6T5l5GxYJFXG2nJyLEXSCicGjbOnvP38hUOO2Vgsxe0DDRm6W4b_MALQqC1I2tBeYh6l637G2xI61-P68TalXATp1hXhDEid961NeCBMYRtIArdx6Zx45FsIjUlMmsoNNswVUqTeHPOszYHyrJ-JsZDa_7Pq5vIgulCZoGUCxtxDRnSdHjXYzts/s1600/Spiderman-Gloves.png', 'name': 'Spiderman Gloves', 'level': 'Legend', 'hitAtk': 110, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 110, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': 0, 'sp': 850, 'cri': '7.5', 'dcri': '' },
  { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEDGGsz8xgCvZ0LJyU8jw55iGx-h5aCBDUzPleCc1wLyYvipl92UoWnlIs9njVx6d5LE49uHDOOEMjKN11UrHeIzZOybD3sB6Gl6pJXEnvQZeYPxCMCtbbORkgqZmmoGRMeuIJEV00tiKQRUjiZJXdEGlZQdaIVLiWqmkC1hILiF_pEzirvcKraHwc-x8/s1600/Z-Agent-Protection-Glove.png', 'name': 'Z-Agent Protection Glove', 'level': 'Ultimate', 'hitAtk': 130, 'gripAtk': 130, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '', 'sp': '1000', 'cri': '', 'dcri': '10' },
 
     
