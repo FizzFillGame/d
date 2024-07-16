@@ -13,7 +13,7 @@ const hairstyleItems = [
   { img: '#', name: 'Gold Jaguar Mask', level: 'Ultimate', hitAtk: 200, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2500', sp: '1000', cri: '', dcri: '15' },
   { img: '#', name: 'Gold Jaguar Ring', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2500', sp: '1000', cri: '', dcri: '75' },
   { img: '#', name: 'Bamboo Cut', level: 'Ultimate', hitAtk: 0, gripAtk: 175, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 175, hp: '0', sp: '750', cri: '75', dcri: '10' },
-  { img: '#', name: 'Suspicious Wooden Box', level: 'Ultimate', hitAtk: 0, gripAtk: 175, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 175, hp: '0', sp: '1000', cri: '75', dcri: '10' }
+  { img: '#', name: 'Suspicious Wooden Box', level: 'Ultimate', hitAtk: 0, gripAtk: 175, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 175, hp: '0', sp: '1000', cri: '75', dcri: '10' },
 
   
 
