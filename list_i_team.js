@@ -1,22 +1,26 @@
 const hairstyleItems = [
 
- { img: '#', name: 'Red Feather Wing', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 75, hitDef: 75, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 75, hp: '2500', sp: '1200', cri: '10', dcri: '10' },
-  { img: '#', name: 'Triple Ice Cream', level: 'Ultimate', hitAtk: 185, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 185, hitDef: 185, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 185, hp: '3500', sp: '1200', cri: '', dcri: '10' },
-  { img: '#', name: 'Tigger Head', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 170, teamDef: 170, doubleDef: 0, specialDef: 170, hp: '1500', sp: '1000', cri: '', dcri: '75' },
-  { img: '#', name: 'Tigger Bag', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 170, teamDef: 170, doubleDef: 0, specialDef: 170, hp: '3000', sp: '1000', cri: '', dcri: '75' },
-  { img: '#', name: 'Groove Guitar', level: 'Legend', hitAtk: 140, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 140, hitDef: 75, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 140, hp: '0', sp: '0', cri: '', dcri: '75' },
-  { img: '#', name: 'Rabbit Earplug', level: 'Ultimate', hitAtk: 85, gripAtk: 0, teamAtk: 0, doubleAtk: 100, specialAtk: 75, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 75, hp: '0', sp: '1200', cri: '85', dcri: '8.5' },
-  { img: '#', name: 'Mushrooms Hat', level: 'Ultimate', hitAtk: 180, gripAtk: 180, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 180, hp: '1500', sp: '0', cri: '', dcri: '8.5' },
+ { img: '#', name: 'Red Feather Wing', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 175, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3500', sp: '1200', cri: '10', dcri: '10' },
+  { img: '#', name: 'Triple Ice Cream', level: 'Ultimate', hitAtk: 165, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 165, hitDef: 185, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 185, hp: '3500', sp: '1200', cri: '', dcri: '10' },
+  { img: '#', name: 'Tigger Head', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 170, teamDef: 170, doubleDef: 170, specialDef: 170, hp: '1500', sp: '1500', cri: '7.5', dcri: '' },
+
+ { img: '#', name: 'Tigger Bag', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 170, teamDef: 170, doubleDef: 0, specialDef: 170, hp: '3000', sp: '1000', cri: '', dcri: '7.5' },
+  { img: '#', name: 'Groove Guitar', level: 'Legend', hitAtk: 140, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 140, hitDef: 140, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 140, hp: '0', sp: '0', cri: '7.5', dcri: '' },
+  { img: '#', name: 'Rabbit Earplug', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 200, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '0', sp: '1200', cri: '8.5', dcri: '8.5' },
+  { img: '#', name: 'Mushrooms Hat', level: 'Ultimate', hitAtk: 180, gripAtk: 180, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 180, hp: '1500', sp: '0', cri: '8.5', dcri: '8.5' },
+
   { img: '#', name: 'Soft Ice Cream', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 180, gripDef: 180, teamDef: 180, doubleDef: 180, specialDef: 180, hp: '4000', sp: '550', cri: '', dcri: '5.5' },
-  { img: '#', name: 'St Patrick\'s pot of gold', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 170, teamDef: 170, doubleDef: 170, specialDef: 170, hp: '3000', sp: '850', cri: '', dcri: '55' },
-  { img: '#', name: 'Gold Jaguar Tail', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1500', sp: '1000', cri: '', dcri: '75' },
+  { img: '#', name: 'St Patrick\'s pot of gold', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 170, teamDef: 170, doubleDef: 170, specialDef: 170, hp: '3000', sp: '850', cri: '5.5', dcri: '' },
+  { img: '#', name: 'Gold Jaguar Tail', level: 'Ultimate', hitAtk: 175, gripAtk: 175, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 175, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 175, hp: '1500', sp: '1000', cri: '', dcri: '75' },
   { img: '#', name: 'Gold Jaguar Mask', level: 'Ultimate', hitAtk: 200, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2500', sp: '1000', cri: '', dcri: '15' },
-  { img: '#', name: 'Gold Jaguar Ring', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2500', sp: '1000', cri: '', dcri: '75' },
-  { img: '#', name: 'Bamboo Cut', level: 'Ultimate', hitAtk: 0, gripAtk: 175, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 175, hp: '0', sp: '750', cri: '75', dcri: '10' },
-  { img: '#', name: 'Suspicious Wooden Box', level: 'Ultimate', hitAtk: 0, gripAtk: 175, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 175, hp: '0', sp: '1000', cri: '75', dcri: '10' },
 
-  
+ { img: '#', name: 'Gold Jaguar Ring', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 175, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2500', sp: '1100', cri: '7.5', dcri: '' },
+  { img: '#', name: 'Light Wings', level: 'Ultimate', hitAtk: 180, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 180, hp: '2000', sp: '1000', cri: '', dcri: '10' },
+  { img: '#', name: 'Rainbow Wings', level: 'Ultimate', hitAtk: 180, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 180, hp: '2000', sp: '1000', cri: '10', dcri: '' },
 
+
+ 
+ 
 
 
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivznSSNeNLaoDEAxtB4b4aGAPBSO6jEC_sqEkGMBtzNLwPmvHVnpemNdydkeM7JXKLSQw1Igij1VWwT-VAP_f8bnnR7gAwgg_7EkIEvvLz1fp-Z1d4ySyI767moseweTtCj8ax0tCUPsT8wY5vYJCAgsmfzHXKN7eqliV1Y990tpR_q33YsHbmoXFJ8d8/s1600/Spiderman-Hair.png', 'name': 'Spiderman Hair', 'level': 'Legend', 'hitAtk': 0, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 110, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '', 'cri': '7.5', 'dcri': '' },
