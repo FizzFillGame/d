@@ -1,5 +1,18 @@
 const hairstyleItems = [
 
+
+
+{ img: 'BlackValkyriaHead.png', 'name': 'Black Valkyria Head', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 150, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+{ img: 'BlackValkyriaFace.png', 'name': 'Black Valkyria Face', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 150, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+{ img: 'BlackValkyriaShirts.png', 'name': 'Black Valkyria Shirts', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+{ img: 'BlackValkyriaGloves.png', 'name': 'Black Valkyria Gloves', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+{ img: 'BlackValkyriaPants.png', 'name': 'Black Valkyria Pants', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+{ img: 'BlackValkyriaShoes.png', 'name': 'Black Valkyria Shoes', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 150, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '1000', 'sp': '1200', 'cri': '7.5', 'dcri': '10' },
+{ img: 'BlackValkyriaHelmet.png', 'name': 'Black Valkyria Helmet', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '1000', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+{ img: 'BlackValkyriaWing.png', 'name': 'Black Valkyria Wing', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '1000', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+{ img: 'BlackValkyriaRing.png', 'name': 'Black Valkyria Ring', 'level': 'Legend', 'hitAtk': 110, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+
+
  
 { img: 'HorseMask.png', 'name': 'Horse Mask', 'level': 'Ultimate', 'hitAtk': 175, 'gripAtk': 0, 'teamAtk': 200, 'doubleAtk': 0, 'specialAtk': 175, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '1250', 'cri': '8.5', 'dcri': '8.5' },
 { img: 'SpeakerMan.png', 'name': 'Speaker Man', 'level': 'Ultimate', 'hitAtk': 180, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 180, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 180, 'hp': '0', 'sp': '2000', 'cri': '15', 'dcri': '0' },
@@ -20,6 +33,10 @@ const hairstyleItems = [
 { img: 'SpainMantle.png', 'name': '2024 Spain mantle', 'level': 'Ultimate', 'hitAtk': 170, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 170, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1000', 'cri': '7.5', 'dcri': '7.5' },
 
   
+
+
+
+
  
  
  
