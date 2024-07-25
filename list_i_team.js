@@ -1,12 +1,23 @@
 const hairstyleItems = [
 
  
+{ img: 'HorseMask.png', 'name': 'Horse Mask', 'level': 'Ultimate', 'hitAtk': 175, 'gripAtk': 0, 'teamAtk': 200, 'doubleAtk': 0, 'specialAtk': 175, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '1250', 'cri': '8.5', 'dcri': '8.5' },
+{ img: 'SpeakerMan.png', 'name': 'Speaker Man', 'level': 'Ultimate', 'hitAtk': 180, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 180, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 180, 'hp': '0', 'sp': '2000', 'cri': '15', 'dcri': '0' },
+{ img: 'JoystickBag.png', 'name': 'Joystick Bag', 'level': 'Ultimate', 'hitAtk': 165, 'gripAtk': 0, 'teamAtk': 200, 'doubleAtk': 200, 'specialAtk': 165, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '0', 'cri': '7.5', 'dcri': '7.5' },
 
  
- 
+ { img: 'GermanyMantle.png', 'name': '2024 Germany mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '0' },
+{ img: 'PortugalMantle.png', 'name': '2024 Portugal mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '0' },
+{ img: 'TurkeyMantle.png', 'name': '2024 Turkey mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '0' },
+{ img: 'SwitzerlandMantle.png', 'name': '2024 Switzerland mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '0' },
+
   
- 
+ { img: 'FranceMantle.png', 'name': '2024 France mantle', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '850', 'cri': '0', 'dcri': '7.5' } ,
+{ img: 'NetherlandsMantle.png', 'name': '2024 Netherlands mantle', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '850', 'cri': '0', 'dcri': '7.5' },
+{ img: 'EnglandMantle.png', 'name': '2024 England mantle', 'level': 'Ultimate', 'hitAtk': 170, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 170, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1000', 'cri': '7.5', 'dcri': '7.5' } ,
+
   
+{ img: 'SpainMantle.png', 'name': '2024 Spain mantle', 'level': 'Ultimate', 'hitAtk': 170, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 170, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1000', 'cri': '7.5', 'dcri': '7.5' },
 
   
  
