@@ -2,43 +2,6 @@ const hairstyleItems = [
 
 
 
-{ img: 'BlackValkyriaHead.png', 'name': 'Black Valkyria Head', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 150, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
-{ img: 'BlackValkyriaFace.png', 'name': 'Black Valkyria Face', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 150, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
-{ img: 'BlackValkyriaShirts.png', 'name': 'Black Valkyria Shirts', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
-{ img: 'BlackValkyriaGloves.png', 'name': 'Black Valkyria Gloves', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
-{ img: 'BlackValkyriaPants.png', 'name': 'Black Valkyria Pants', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '10', 'dcri': '10' },
-{ img: 'BlackValkyriaShoes.png', 'name': 'Black Valkyria Shoes', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 150, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '1000', 'sp': '1200', 'cri': '7.5', 'dcri': '10' },
-{ img: 'BlackValkyriaHelmet.png', 'name': 'Black Valkyria Helmet', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '1000', 'sp': '1200', 'cri': '10', 'dcri': '10' },
-{ img: 'BlackValkyriaWing.png', 'name': 'Black Valkyria Wing', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '1000', 'sp': '1200', 'cri': '10', 'dcri': '10' },
-{ img: 'BlackValkyriaRing.png', 'name': 'Black Valkyria Ring', 'level': 'Legend', 'hitAtk': 110, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1200', 'cri': '10', 'dcri': '10' },
-
-
- 
-{ img: 'HorseMask.png', 'name': 'Horse Mask', 'level': 'Ultimate', 'hitAtk': 175, 'gripAtk': 0, 'teamAtk': 200, 'doubleAtk': 0, 'specialAtk': 175, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '1250', 'cri': '8.5', 'dcri': '8.5' },
-{ img: 'SpeakerMan.png', 'name': 'Speaker Man', 'level': 'Ultimate', 'hitAtk': 180, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 180, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 180, 'hp': '0', 'sp': '2000', 'cri': '15', 'dcri': '0' },
-{ img: 'JoystickBag.png', 'name': 'Joystick Bag', 'level': 'Ultimate', 'hitAtk': 165, 'gripAtk': 0, 'teamAtk': 200, 'doubleAtk': 200, 'specialAtk': 165, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '0', 'cri': '7.5', 'dcri': '7.5' },
-
- 
- { img: 'GermanyMantle.png', 'name': '2024 Germany mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '0' },
-{ img: 'PortugalMantle.png', 'name': '2024 Portugal mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '0' },
-{ img: 'TurkeyMantle.png', 'name': '2024 Turkey mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '0' },
-{ img: 'SwitzerlandMantle.png', 'name': '2024 Switzerland mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '0' },
-
-  
- { img: 'FranceMantle.png', 'name': '2024 France mantle', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '850', 'cri': '0', 'dcri': '7.5' } ,
-{ img: 'NetherlandsMantle.png', 'name': '2024 Netherlands mantle', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '850', 'cri': '0', 'dcri': '7.5' },
-{ img: 'EnglandMantle.png', 'name': '2024 England mantle', 'level': 'Ultimate', 'hitAtk': 170, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 170, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1000', 'cri': '7.5', 'dcri': '7.5' } ,
-
-  
-{ img: 'SpainMantle.png', 'name': '2024 Spain mantle', 'level': 'Ultimate', 'hitAtk': 170, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 170, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1000', 'cri': '7.5', 'dcri': '7.5' },
-
-  
-
-
-
-
- 
- 
  
 
 
@@ -481,6 +444,21 @@ const hairstyleItems = [
     
   ];
   const bagItems = [
+
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6wABeUZWlybc2Wm72XwCYVQbFXEtaLTGfbShIyUzHKfAiTrtXfslTIj02_Pl6GqT46OwuJ-1O3aBeUcUVY1Pnr9NTGIJmishrhPj-c7IrEKIS4eBrXNnSWGdDEwiC7kHDHQRlWC48ZttLfFNq66q5f5fgLifnzlosu3YK0v4TJlVy4rWGwlDgEGMGguM/s1600/3.png', 'name': 'Black Valkyria Wing', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 150, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '3000', 'sp': '1200', 'cri': '10', 'dcri': '10' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbXZwlA1bntVE6f59TzKDHCsyqV_aK1KkEFJvdoo1rxXkbPLqNsougzUQdZF6_PK_t9w4lJMU5PcljrsKz9d1LrnPKedeXY_7OBNH05KUcHrp_AXrQXHzU7cdPRtzXzMCnztInzieJ7qJRPVCUezWKrRaOvgsmJwUoMoqPm6C2Slkp-319r35x6t4944w/s1600/Speaker-Man.png', 'name': 'Joystick Bag', 'level': 'Ultimate', 'hitAtk': 165, 'gripAtk': 0, 'teamAtk': 200, 'doubleAtk': 200, 'specialAtk': 165, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '', 'cri': '7.5', 'dcri': '7.5' },
+ { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUDjYNgbf9Kx0NyzzYBeo_CVcdVLTOkveS6luS7IBcfTgAm23RcHzoJEMO_VchyvhoGNr_FHFCaKwE_Ohi8NWxmcn7bUYFqJCwG5cc903PmH1C1h1fUhlITYa6t991VxKLBZ0_Q1OsfJo3uUIHiHbJ5_nBpsryDvyCrs3PpYBqD4zLxcWYI6e-ctnnPGY/s1600/2024-Germany-mantle.png', 'name': '2024 Germany mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuWiiN5kBl-66lCUR4H6Ypt7-tzXXis51v4xm6-vBuZBij9RX83Ahe41okkwO_05U3O3ylyVF7kudzRUskxIChQNp2awotUwGIQBtj6pqVicmjRn7ObYNBlDqxAcNAT_kUZ6gBBZDtQJt-jeh49B6p7sRBEp8aP8O-HW441hUfBg-D-pqeDi06luwRKj8/s1600/2024-Portugal-mantle.png', 'name': '2024 Portugal mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjThO0oc2ftwSu6RKzFUCjmoFUXew55GxDt0y-p1-d8nt3n8R-Y874TkVvxYM3FfcR7flmaBBI91cdjQm8xGKWZm4udhttPGRqocziLjzFsmga0aSOD_uCyg_j0wq6V8dNQ6xGuxdscDVNb8uoyxJ_P3oOpQkIRWtmplmQup772rnp3Rch6CszrYGcyBNw/s1600/2024-Turkey-mantle.png', 'name': '2024 Turkey mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0-K-0K7s7hcJlAPmV4wYD6gyVQQM-YnGD3Gmnx1jc3j-FTQX5OGk13xVcwmHiZXlOhzRvjLRKdUAijnyTQawRpL0tGIiSgOSvZ2j2H2nBNFfdieDKiEzisd3_JKyPAOScyE2zcwVmWZc_gpCXEDQMXLDugjRy35TITpwptGq3TaqnjgLYGYJFisxMhj4/s1600/2024-Switzerland-mantle.png', 'name': '2024 Switzerland mantle', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 100, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '550', 'sp': '550', 'cri': '7.5', 'dcri': '' },
+ { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqqyQo27sIWIjVwG7_NhdO0lwDqq2M-Vs3eVQa1wwRj5GFiIRNM6vOZB68MhiihYtc8ISRCn326i3fTVsC-FC5sUtrYmGnQ_AdpMcF18lpabzBD7XyZn9J3KKhCkHRzNoG3M71Peexo3PkWyC9sa6YapTtoQ4oDyp4ONH4GK4tRZ3cts2dz1NEMD4R58M/s1600/2024-France-mantle.png', 'name': '2024 France mantle', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '850', 'cri': '', 'dcri': '7.5' } ,
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7z-1x5d3fW0tXVVahmieKkS0B5ENnJbEHBzC6th7MdqTMnefHEjDXGBAC_dUvgemtrWYR8afqAgex8Yyw4frk9vdN9tDpE6bVrbyYKq6ZNDh41UIS00GfJrAEnpQ_Yr1c-sGBn2W1IPqNCinhFwdXoJy-BKf4bYhqZvMzhCTJcjIMPomlYjd7Q2fKUSY/s1600/2024-Netherlands-mantle.png', 'name': '2024 Netherlands mantle', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '850', 'cri': '', 'dcri': '7.5' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKkm9smE1tlVZIxEpCPyVW8ZCOOsAvM6X-tDT4WMmkEeIQjTBB-gdQLKeV29aD4PF29eilCrrBVp095bUowFYn2gLNNniCcRZZiP5wrnEY_gPHdZdq4XT5euANOPBlkImcgtaI2Hp-zHh8yrV5WMrHHRrB-dZdKLyiebDpqltmVDrPKHThQ3EoY_4Sg9E/s1600/2024-England-mantle.png', 'name': '2024 England mantle', 'level': 'Ultimate', 'hitAtk': 170, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 170, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1000', 'cri': '7.5', 'dcri': '7.5' } ,
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO-Y06Q4AIaHreT64Enr1w-4NegFtYjVg2cSzwLV_qZVyBHBGH29SkL2nBDl8zLeigm0uM1P_1WngKn2OR1T41-jA3tfBlFOCkkjOfsBisQqqL-CnK2FGrOUrRPo96Cp4Bz4KQPjMqgKc-lweg4pBbLYluwnUGjm43QzqCvzPz2mcPUszl1IgjggiCPNk/s1600/2024-Spain-mantle.png', 'name': '2024 Spain mantle', 'level': 'Ultimate', 'hitAtk': 170, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 170, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2000', 'sp': '1000', 'cri': '7.5', 'dcri': '7.5' },
+
+  
+
+   
    
 
   { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQl5i5NFRDeKfzYCYAh2X0z8A6rPJbwv9wgQWXs8U7eGt-W-vstM5OPPKqJK-aU94sTJOiiocdRmjH0HLNtdbw-3nBCFmIxi1T07o_KFSrewuBocRp1bL-QlbnLlRSXh2rSIcoC3hOFR1Lc0LNhBnUWmsKTwBF7OFpb1EeQEr-DPUQ9aSuma0uC9Zlw7k/s320/Light%20Wings.png', name: 'Light Wings', level: 'Ultimate', hitAtk: 180, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 180, hp: '2000', sp: '1000', cri: '', dcri: '10' },
