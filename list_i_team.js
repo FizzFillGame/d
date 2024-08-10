@@ -14,11 +14,24 @@ const hairstyleItems = [
 
 
 
+{ img: 'LoveMomLightWing.png', 'name': 'Love Mom Light Wing', 'level': 'Ultimate', 'hitAtk': 175, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 175, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 175, 'hp': '4500', 'sp': '850', 'cri': '10', 'dcri': '10' },
+{ img: 'MomsDayAngelWings.png', 'name': 'Mom\'s Day Angel Wings', 'level': 'Ultimate', 'hitAtk': 0, 'gripAtk': 0, 'teamAtk': 160, 'doubleAtk': 160, 'specialAtk': 0, 'hitDef': 200, 'gripDef': 180, 'teamDef': 160, 'doubleDef': 160, 'specialDef': 200, 'hp': '4500', 'sp': '500', 'cri': '5.5', 'dcri': '0' },
+{ img: 'MomsDayHeartUmbrella.png', 'name': 'Mom\'s Day Heart Umbrella', 'level': 'Ultimate', 'hitAtk': 175, 'gripAtk': 200, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 175, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '1200', 'cri': '10', 'dcri': '8.5' },
+{ img: 'MomsDayHeartBoxingGloves.png', 'name': 'Mom\'s Day Heart Boxing Gloves', 'level': 'Ultimate', 'hitAtk': 170, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 170, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '1100', 'cri': '10', 'dcri': '0' },
 
 
+{ img: 'MomsDayHeartGuitar.png', 'name': 'Mom\'s Day Heart Guitar', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '1000', 'sp': '850', 'cri': '3.5', 'dcri': '3.5' },
+{ img: 'MomsDayBigHeartBalloon.png', 'name': 'Mom\'s Day Big Heart Balloon', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 150, 'teamAtk': 150, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '850', 'cri': '5', 'dcri': '5' },
+{ img: 'MomsDayLollipop.png', 'name': 'Mom\'s Day Lollipop', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 150, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '850', 'cri': '5', 'dcri': '3.5' },
+{ img: 'ZuperMomCloth.png', 'name': 'Zuper Mom Cloth', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 150, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '500', 'cri': '5.5', 'dcri': '0' },
+
+{ img: 'ZuperMomWristband.png', 'name': 'Zuper Mom Wristband', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 150, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '850', 'cri': '0', 'dcri': '10' },
+{ img: 'JasmineCrown.png', 'name': 'Jasmine Crown (Ultimate)', 'level': 'Ultimate', 'hitAtk': 175, 'gripAtk': 200, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 175, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '1200', 'cri': '10', 'dcri': '8.5' },
+{ img: 'JasmineRing.png', 'name': 'Jasmine Ring (Ultimate)', 'level': 'Ultimate', 'hitAtk': 180, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 180, 'hitDef': 180, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '1000', 'sp': '1100', 'cri': '10', 'dcri': '0' },
+{ img: 'JasmineWing.png', 'name': 'Jasmine Wing (Ultimate)', 'level': 'Ultimate', 'hitAtk': 0, 'gripAtk': 180, 'teamAtk': 160, 'doubleAtk': 160, 'specialAtk': 0, 'hitDef': 200, 'gripDef': 180, 'teamDef': 160, 'doubleDef': 160, 'specialDef': 200, 'hp': '4500', 'sp': '500', 'cri': '5.5', 'dcri': '0' },
 
 
-
+{ img: 'DianaCrown.png', 'name': 'Diana Crown', 'level': 'Rare', 'hitAtk': 0, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 100, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 100, 'hp': '0', 'sp': '500', 'cri': '0', 'dcri': '7.5' },
 
 
 
