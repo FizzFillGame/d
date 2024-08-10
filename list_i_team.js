@@ -1,4 +1,24 @@
 const hairstyleItems = [
+
+
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7JfKmRK98sUmCB-e1WrHe9dGimhbk1UQIA3T3wmZcRBpIRxrJ6GghkaTmsGnMBDUEh54aRkSsXSIsJ4ZsOIuYSd0DV-H0QiYSnSn8SoUAnRPVrFL2GOqeLnMyXB9ljcmHIVpnP4Yym-kxvXvl0Mp-RNNDU_20ATsb1v6gesgr_SGI72cjbcfxPsnWLIs/s1600/Love-Mom-Shirt.png', 'name': 'Love Mom Shirt', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '500', 'cri': '5.5', 'dcri': '0' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPbDsMEIYYfrvNtq6fhyphenhyphenraFi7-mtQl1NssKm9dhiDTDfHpkNZvN41oJTAtwCMd8vC0ntmr5U_4L66DO1bTJOxo_dF-qJc7BZhgm4iPU2f8Hvxdt4L90cm-jKxvR21UDPK2LJmYWsCGwl-MWIF5ZiHapd9fmRynazUMG8yeTjpu3CTu0doAU9ZvV2oJTEU/s1600/Love-Mom-Pants.png', 'name': 'Love Mom Pants', 'level': 'Legend', 'hitAtk': 150, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 150, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '500', 'cri': '0', 'dcri': '5.5' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoRaJGMPQcCz_tSuRrWPf9moOd25KMb3mcXlM4mknSBtArrBqyuVLEM9tRfwbNNFoWv2QLGbNT4aBA4Ehkxbz5DYRcxGFNx6erUmfKgxpK3iPVHcZuc836f0tKtwZfMjFUa1bKuf5KOlDkVgIyyHbSsA1UShwc0GAWabW-pFiW68YYP0sJutZfWcpE-Aw/s1600/Mom's-Day-Wristband.png', 'name': 'Mom\'s Day Wristband', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 120, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '0', 'sp': '850', 'cri': '7.5', 'dcri': '0' },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV8X5IbjMARcKdbNuX5uqU8XL9Ins_Z_fQQ7L1S8E5RkFrWkuR-OJ_N0eSmkDO9uwpfH0V9MIR-eYt9sKbgFehfEldYirruh8LmcedLOWxLo9Nz-sfvergqLxVofscH9ghNxtTmYpMIEgtLuqwanBAC4ois2RpWLr847bvx5UeMpuG5dSQXqirGqw1wnk/s1600/Super-Power-Blue-Hair.png', 'name': 'Super Power Blue Hair', 'level': 'Ultimate', 'hitAtk': 0, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 160, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 160, 'hp': '3500', 'sp': '1250', 'cri': '', 'dcri': '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_2m9slfymDHWpEfSr9TGTgnm_4ua9qAPdrbsqvRno0QtRh0gF_1_OF1oRnHkWOaFCfavsJyDn3xdwrGLUeWvWe_prgrBoanKMQwNs7kLlE6RmRVficme1NvxBUOWU7HvpkvIzPDQasQLkIO6iOXIvgAppgvYdkJybD2xWDaKd0UKY4QcIO4cZOaVTmic/s1600/Rainy-Frog-Hood.png', 'name': 'Rainy Frog Hood', 'level': 'Rare', 'hitAtk': 100, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 0, 'specialAtk': 100, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 100, 'hp': '', 'sp': '550', 'cri': '5', 'dcri': '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinjl7CjbhXHtj9EcIWrmYh_pIIGze8RcRfyCwxG6Ilpz4PrkphmiC6s3gTZRWKA9wNHpG7Qy-yriGPxOsFjG4Wq23-F8hJ-T4G7RmaPG1bWUJ82Jw7VGd5EKfRPMy2V3XIy8F782ozPI47YEZ4du0CI6CsKeOkLQS0Rde6ggmonqYMXGAfGN_GRJbBmM4/s1600/5.png', 'name': 'Black Valkyria Head', 'level': 'Legend', 'hitAtk': 120, 'gripAtk': 0, 'teamAtk': 0, 'doubleAtk': 150, 'specialAtk': 0, 'hitDef': 0, 'gripDef': 0, 'teamDef': 0, 'doubleDef': 0, 'specialDef': 0, 'hp': '2500', 'sp': '1200', 'cri': '', 'dcri': '' },
