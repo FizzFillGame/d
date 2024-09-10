@@ -2,6 +2,61 @@ const hairstyleItems = [
 
 
 
+{ img: '#', name: 'Dark Devil Shoes', level: 'Ultimate', hitAtk: 200, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 200, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 200, hp: '', sp: '2200', cri: '15', dcri: '10' },
+{ img: '#', name: 'Dark Devil Gloves', level: 'Ultimate', hitAtk: 200, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 200, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '1800', cri: '15', dcri: '10' },
+{ img: '#', name: 'Dark Devil Helmet', level: 'Ultimate', hitAtk: 200, gripAtk: 180, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 170, hp: '', sp: '1500', cri: '12.5', dcri: '10' },
+{ img: '#', name: 'Dark Devil Wings', level: 'Ultimate', hitAtk: 200, gripAtk: 180, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 180, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '1200', cri: '10', dcri: '10' } ,
+{ img: '#', name: 'Chutcha Running', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 170, teamDef: 170, doubleDef: 0, specialDef: 170, hp: '1500', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Chutcha Pants', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 170, teamDef: 0, doubleDef: 170, specialDef: 170, hp: '', sp: '1500', cri: '', dcri: '' },
+{ img: '#', name: 'Chutcha Plastic bags', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 0, teamDef: 170, doubleDef: 170, specialDef: 170, hp: '', sp: '', cri: '10', dcri: '' },
+{ img: '#', name: 'Chutcha Barefoot', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 0, teamDef: 170, doubleDef: 170, specialDef: 170, hp: '', sp: '', cri: '', dcri: '10' },
+{ img: '#', name: 'American Football Clothing (DE Slot: ส่วนหลัง)', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 160, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '2500', sp: '1100', cri: '10', dcri: '' },
+{ img: '#', name: 'American Football Helmet (White)', level: 'Ultimate', hitAtk: 0, gripAtk: 160, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '2500', sp: '1100', cri: '10', dcri: '' },
+{ img: '#', name: 'American Football Helmet (Yellow)', level: 'Ultimate', hitAtk: 160, gripAtk: 160, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 160, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2500', sp: '1100', cri: '', dcri: '10' },
+{ img: '#', name: 'American Football Helmet (Green)', level: 'Ultimate', hitAtk: 0, gripAtk: 160, teamAtk: 160, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '2500', sp: '1100', cri: '', dcri: '10' },
+{ img: '#', name: 'American Football Finger', level: 'Ultimate', hitAtk: 160, gripAtk: 160, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3000', sp: '1200', cri: '', dcri: '10' },
+{ img: '#', name: 'Sphinx Hair', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 160, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3200', sp: '500', cri: '', dcri: '' },
+{ img: '#', name: 'Sphinx Face', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3200', sp: '500', cri: '', dcri: '' },
+{ img: '#', name: 'Sphinx Shirt', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 160, specialDef: 0, hp: '2000', sp: '500', cri: '', dcri: '' },
+{ img: '#', name: 'Sphinx Pants', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 160, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 160, doubleDef: 0, specialDef: 0, hp: '1400', sp: '750', cri: '', dcri: '' },
+{ img: '#', name: 'Sphinx Glove', level: 'Ultimate', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 160, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2000', sp: '350', cri: '', dcri: '' },
+{ img: '#', name: 'Sphinx Shoes', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 150, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '2000', sp: '350', cri: '', dcri: '' },
+{ img: '#', name: 'Sphinx Wing', level: 'Ultimate', hitAtk: 170, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 170, hitDef: 170, gripDef: 170, teamDef: 0, doubleDef: 0, specialDef: 170, hp: '3200', sp: '500', cri: '7.5', dcri: '' },
+{ img: '#', name: 'Sphinx Hat', level: 'Ultimate', hitAtk: 170, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 170, hitDef: 170, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3200', sp: '500', cri: '7.5', dcri: '7.5' },
+{ img: '#', name: 'Sphinx Ring', level: 'Ultimate', hitAtk: 170, gripAtk: 170, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 170, gripDef: 170, teamDef: 0, doubleDef: 0, specialDef: 170, hp: '3200', sp: '500', cri: '', dcri: '10' },
+{ img: '#', name: 'Winner\'s Trophy', level: 'Ultimate', hitAtk: 150, gripAtk: 150, teamAtk: 150, doubleAtk: 150, specialAtk: 150, hitDef: 150, gripDef: 150, teamDef: 150, doubleDef: 150, specialDef: 150, hp: '3500', sp: '1500', cri: '10', dcri: '10' },
+{ img: '#', name: 'Vice Winner\'s Trophy', level: 'Ultimate', hitAtk: 130, gripAtk: 130, teamAtk: 130, doubleAtk: 130, specialAtk: 130, hitDef: 130, gripDef: 130, teamDef: 130, doubleDef: 130, specialDef: 130, hp: '2500', sp: '1000', cri: '7.5', dcri: '7.5' },
+{ img: '#', name: 'Semi Final Winner\'s Trophy', level: 'Ultimate', hitAtk: 110, gripAtk: 110, teamAtk: 110, doubleAtk: 110, specialAtk: 110, hitDef: 110, gripDef: 110, teamDef: 110, doubleDef: 110, specialDef: 110, hp: '1500', sp: '500', cri: '5', dcri: '5' },
+{ img: '#', name: 'Purple Scarab Helmet', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 175, gripDef: 175, teamDef: 175, doubleDef: 175, specialDef: 175, hp: '3300', sp: '950', cri: '6.5', dcri: '' },
+{ img: '#', name: 'Purple Scarab Carapace', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 165, doubleAtk: 165, specialAtk: 0, hitDef: 200, gripDef: 185, teamDef: 165, doubleDef: 165, specialDef: 200, hp: '4600', sp: '650', cri: '6.5', dcri: '' },
+{ img: '#', name: 'Purple Scarab Ring', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 185, gripDef: 185, teamDef: 0, doubleDef: 185, specialDef: 185, hp: '4300', sp: '650', cri: '', dcri: '6.5' },
+{ img: '#', name: 'Gold Knight Hair', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3000', sp: '850', cri: '5.5', dcri: '' },
+{ img: '#', name: 'Gold Knight Face', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 150, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 150, hp: '2500', sp: '1000', cri: '', dcri: '' },
+{ img: '#', name: 'Gold Knight Shirts', level: 'Ultimate', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 150, gripDef: 150, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Gold Knight Pants', level: 'Ultimate', hitAtk: 0, gripAtk: 150, teamAtk: 0, doubleAtk: 0, specialAtk: 150, hitDef: 0, gripDef: 150, teamDef: 0, doubleDef: 0, specialDef: 150, hp: '', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Gold Knight Gloves', level: 'Ultimate', hitAtk: 155, gripAtk: 155, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '900', cri: '10', dcri: '' },
+{ img: '#', name: 'Gold Knight Shoes', level: 'Ultimate', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 150, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 150, hp: '', sp: '900', cri: '', dcri: '10' },
+{ img: '#', name: 'Gold Knight Bag', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '1500', sp: '', cri: '10', dcri: '' },
+{ img: '#', name: 'Gold Knight Hat', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '', sp: '1000', cri: '10', dcri: '' },
+{ img: '#', name: 'Gold Knight Ring', level: 'Ultimate', hitAtk: 0, gripAtk: 160, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '1700', sp: '1000', cri: '10', dcri: '' },
+{ img: '#', name: 'Black Knight Hair', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '550', cri: '', dcri: '' },
+{ img: '#', name: 'Black Knight Face', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 160, doubleDef: 0, specialDef: 160, hp: '3500', sp: '550', cri: '', dcri: '' },
+{ img: '#', name: 'Black Knight Shirts', level: 'Ultimate', hitAtk: 160, gripAtk: 160, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 160, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Black Knight Pants', level: 'Ultimate', hitAtk: 160, gripAtk: 160, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 160, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Black Knight Gloves', level: 'Ultimate', hitAtk: 160, gripAtk: 160, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 160, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Black Knight Shoes', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 160, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Black Knight Bag', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 170, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 170, doubleDef: 0, specialDef: 170, hp: '3500', sp: '650', cri: '', dcri: '' },
+{ img: '#', name: 'Black Knight Hat', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 170, hitDef: 170, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 170, hp: '3500', sp: '650', cri: '8.5', dcri: '' },
+{ img: '#', name: 'Black Knight Ring', level: 'Ultimate', hitAtk: 170, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 170, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 170, hp: '3500', sp: '650', cri: '', dcri: '8.5' },
+{ img: '#', name: 'Z4 Workshop Shirts', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 160, gripDef: 0, teamDef: 160, doubleDef: 0, specialDef: 160, hp: '', sp: '850', cri: '', dcri: '' },
+{ img: '#', name: 'Z4 Workshop Jeans', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 160, gripDef: 0, teamDef: 160, doubleDef: 0, specialDef: 160, hp: '', sp: '850', cri: '', dcri: '' },
+{ img: '#', name: 'Z4 T-Square Wooden', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 175, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 175, hp: '3500', sp: '1000', cri: '', dcri: '' },
+
+
+
+
+
+
 
 
   
