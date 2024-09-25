@@ -1,6 +1,6 @@
 const nomralhairstyleItems = [
 
-{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx1SqgCHgxExkN9KT7bXn1eT8luAYRt0XvY_9vXNp42db4J6ZNac-8QvB7oThNzI8cWapDwwdydq55Nlep2FF1CYSuN-aSYJgUeiSnqXHjrSFz-ATttG2A9wJ9MxUgl8V1kAw364NtEtMKuZL8a02zY99Zu1LawTexxkKAfN2Wgf794m60jdBMauYfAfw/s1600/17.jpg', name: 'Black Knight Hair', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '550', cri: '', dcri: '' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx1SqgCHgxExkN9KT7bXn1eT8luAYRt0XvY_9vXNp42db4J6ZNac-8QvB7oThNzI8cWapDwwdydq55Nlep2FF1CYSuN-aSYJgUeiSnqXHjrSFz-ATttG2A9wJ9MxUgl8V1kAw364NtEtMKuZL8a02zY99Zu1LawTexxkKAfN2Wgf794m60jdBMauYfAfw/s1600/17.jpg', name: 'Black Knight Hair', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '550', cri: '', dcri: '',bonut:'test dsddsdsd' },
 
   ];
 
