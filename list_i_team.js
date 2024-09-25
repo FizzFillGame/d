@@ -1,6 +1,12 @@
 const hairstyleItems = [
 
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx1SqgCHgxExkN9KT7bXn1eT8luAYRt0XvY_9vXNp42db4J6ZNac-8QvB7oThNzI8cWapDwwdydq55Nlep2FF1CYSuN-aSYJgUeiSnqXHjrSFz-ATttG2A9wJ9MxUgl8V1kAw364NtEtMKuZL8a02zY99Zu1LawTexxkKAfN2Wgf794m60jdBMauYfAfw/s1600/17.jpg', name: 'Black Knight Hair', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '550', cri: '', dcri: '' },
+
+  ];
+
+const hairstyleItems = [
+
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx1SqgCHgxExkN9KT7bXn1eT8luAYRt0XvY_9vXNp42db4J6ZNac-8QvB7oThNzI8cWapDwwdydq55Nlep2FF1CYSuN-aSYJgUeiSnqXHjrSFz-ATttG2A9wJ9MxUgl8V1kAw364NtEtMKuZL8a02zY99Zu1LawTexxkKAfN2Wgf794m60jdBMauYfAfw/s1600/17.jpg', name: 'Black Knight Hair', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '550', cri: '', dcri: '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgesRve86hCvUmxV1kGw0b9pAaudQcHOuteG6zJeyKdb-aTG99d0NQEBHPzzB2EroZHblyv_lFiZuNZMDyr1jqqWh3BFbXkmBoU2pvkst9djpCEZqOg3LBwXVmE1UmI56sEwNHr2qXJNBj5VpuzNDbNMCClqwb2x-qK8pcUnkFjAeNC7YUHbdLKqKLUPsY/s1600/8.jpg', name: 'Gold Knight Hair', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3000', sp: '850', cri: '5.5', dcri: '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUg6XHrkY92SWFQhxjRn-hTorLi1WYOmYJJT3ULsVlpZ88kyuysCdBhJTJvOkHoylLH_823-GNybp_HLODEA9ycK3pIQQGGtl_ZqRzjadN12F9GYAOlTYnibDjssYopRQbw-E-OfrDVTU-B7L29kOyr0KBF8ZQEjk7iQZcqviHPRqNMs46oENYzmKhO10/s1600/36.jpg', name: 'Sphinx Hair', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 160, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3200', sp: '500', cri: '', dcri: '' },
   
