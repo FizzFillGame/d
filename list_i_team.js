@@ -1,4 +1,52 @@
 const nomralhairstyleItems = [
+
+{ img: '#.jpg', name: 'War Samurai', level: 'Rare', hitAtk: 450, gripAtk: 340, teamAtk: 220, doubleAtk: 0, specialAtk: 380, hitDef: 220, gripDef: 220, teamDef: 180, doubleDef: 0, specialDef: 270, hp: '5400', sp: '2700', cri: '32.5', dcri: '30' },
+{ img: '#.jpg', name: 'War Samurai', level: 'Legend', hitAtk: 560, gripAtk: 440, teamAtk: 320, doubleAtk: 0, specialAtk: 470, hitDef: 300, gripDef: 300, teamDef: 250, doubleDef: 0, specialDef: 340, hp: '6000', sp: '3450', cri: '42.5', dcri: '37.5' },
+{ img: '#.jpg', name: 'War Samurai', level: 'Ultimate', hitAtk: 670, gripAtk: 540, teamAtk: 420, doubleAtk: 0, specialAtk: 560, hitDef: 380, gripDef: 380, teamDef: 320, doubleDef: 0, specialDef: 410, hp: '7200', sp: '4350', cri: '52.5', dcri: '45' },
+
+  
+{ img: '#.jpg', name: 'GENOCIDE-X', level: 'Ultimate', hitAtk: 760, gripAtk: 520, teamAtk: 380, doubleAtk: 0, specialAtk: 600, hitDef: 370, gripDef: 320, teamDef: 320, doubleDef: 0, specialDef: 380, hp: '3900', sp: '4500', cri: '37.5', dcri: '37.5' },
+
+  
+{ img: '#.jpg', name: 'Gatchaman', level: 'Rare', hitAtk: 430, gripAtk: 190, teamAtk: 180, doubleAtk: 0, specialAtk: 480, hitDef: 220, gripDef: 220, teamDef: 180, doubleDef: 0, specialDef: 270, hp: '4500', sp: '2200', cri: '15', dcri: '22.5' },
+{ img: '#.jpg', name: 'Gatchaman', level: 'Legend', hitAtk: 600, gripAtk: 340, teamAtk: 270, doubleAtk: 0, specialAtk: 600, hitDef: 300, gripDef: 300, teamDef: 250, doubleDef: 0, specialDef: 340, hp: '5100', sp: '3000', cri: '20', dcri: '30' },
+{ img: '#.jpg', name: 'Gatchaman', level: 'Ultimate', hitAtk: 740, gripAtk: 490, teamAtk: 360, doubleAtk: 0, specialAtk: 720, hitDef: 380, gripDef: 380, teamDef: 320, doubleDef: 0, specialDef: 410, hp: '6000', sp: '3900', cri: '25', dcri: '37.5' },
+
+  
+
+{ img: '#.jpg', name: 'Paladin', level: 'Rare', hitAtk: 200, gripAtk: 200, teamAtk: 200, doubleAtk: 0, specialAtk: 260, hitDef: 280, gripDef: 280, teamDef: 220, doubleDef: 220, specialDef: 400, hp: '7500', sp: '2700', cri: '15', dcri: '22.5' },
+{ img: '#.jpg', name: 'Paladin', level: 'Legend', hitAtk: 270, gripAtk: 270, teamAtk: 270, doubleAtk: 0, specialAtk: 330, hitDef: 370, gripDef: 390, teamDef: 310, doubleDef: 310, specialDef: 560, hp: '10300', sp: '3600', cri: '20', dcri: '30' },
+{ img: '#.jpg', name: 'Paladin', level: 'Ultimate', hitAtk: 340, gripAtk: 340, teamAtk: 340, doubleAtk: 0, specialAtk: 400, hitDef: 460, gripDef: 500, teamDef: 400, doubleDef: 400, specialDef: 720, hp: '13100', sp: '4500', cri: '25', dcri: '37.5' },
+
+
+
+{ img: '#.jpg', name: 'Fire Lord', level: 'Rare', hitAtk: 370, gripAtk: 290, teamAtk: 230, doubleAtk: 0, specialAtk: 300, hitDef: 240, gripDef: 180, teamDef: 180, doubleDef: 0, specialDef: 210, hp: '2600', sp: '1500', cri: '18', dcri: '15' },
+{ img: '#.jpg', name: 'Fire Lord', level: 'Legend', hitAtk: 510, gripAtk: 400, teamAtk: 320, doubleAtk: 0, specialAtk: 390, hitDef: 310, gripDef: 250, teamDef: 250, doubleDef: 0, specialDef: 280, hp: '4100', sp: '3000', cri: '27', dcri: '25' },
+{ img: '#.jpg', name: 'Fire Lord', level: 'Ultimate', hitAtk: 630, gripAtk: 510, teamAtk: 410, doubleAtk: 0, specialAtk: 480, hitDef: 380, gripDef: 320, teamDef: 320, doubleDef: 0, specialDef: 350, hp: '5100', sp: '3600', cri: '40', dcri: '35' },
+
+
+{ img: '#.jpg', name: 'Death Scythe', level: 'Rare', hitAtk: 320, gripAtk: 280, teamAtk: 220, doubleAtk: 0, specialAtk: 385, hitDef: 335, gripDef: 220, teamDef: 180, doubleDef: 0, specialDef: 240, hp: '3000', sp: '1500', cri: '8', dcri: '10' },
+{ img: '#.jpg', name: 'Death Scythe', level: 'Legend', hitAtk: 450, gripAtk: 410, teamAtk: 300, doubleAtk: 0, specialAtk: 510, hitDef: 440, gripDef: 290, teamDef: 250, doubleDef: 0, specialDef: 310, hp: '4500', sp: '3000', cri: '12', dcri: '15' },
+{ img: '#.jpg', name: 'Death Scythe', level: 'Ultimate', hitAtk: 560, gripAtk: 520, teamAtk: 380, doubleAtk: 0, specialAtk: 680, hitDef: 570, gripDef: 360, teamDef: 320, doubleDef: 0, specialDef: 380, hp: '5500', sp: '3600', cri: '15', dcri: '20' },
+
+
+{ img: '#.jpg', name: 'Dark Avenger', level: 'Rare', hitAtk: 360, gripAtk: 330, teamAtk: 0, doubleAtk: 170, specialAtk: 310, hitDef: 225, gripDef: 225, teamDef: 0, doubleDef: 150, specialDef: 230, hp: '3000', sp: '2800', cri: '10', dcri: '20' },
+{ img: '#.jpg', name: 'Dark Avenger', level: 'Legend', hitAtk: 470, gripAtk: 430, teamAtk: 0, doubleAtk: 250, specialAtk: 430, hitDef: 300, gripDef: 300, teamDef: 0, doubleDef: 220, specialDef: 300, hp: '4200', sp: '4500', cri: '15', dcri: '30' },
+{ img: '#.jpg', name: 'Dark Avenger', level: 'Ultimate', hitAtk: 580, gripAtk: 540, teamAtk: 0, doubleAtk: 320, specialAtk: 540, hitDef: 380, gripDef: 380, teamDef: 0, doubleDef: 290, specialDef: 370, hp: '5400', sp: '6200', cri: '20', dcri: '40' },
+
+  
+
+{ img: '#.jpg', name: 'Weapon Master', level: 'Rare', hitAtk: 320, gripAtk: 280, teamAtk: 0, doubleAtk: 220, specialAtk: 310, hitDef: 260, gripDef: 200, teamDef: 200, doubleDef: 210, specialDef: 0, hp: '2800', sp: '1500', cri: '20', dcri: '13' },
+{ img: '#.jpg', name: 'Weapon Master', level: 'Legend', hitAtk: 430, gripAtk: 390, teamAtk: 0, doubleAtk: 300, specialAtk: 430, hitDef: 330, gripDef: 270, teamDef: 270, doubleDef: 280, specialDef: 0, hp: '4300', sp: '3000', cri: '30', dcri: '22' },
+{ img: '#.jpg', name: 'Weapon Master', level: 'Ultimate', hitAtk: 540, gripAtk: 500, teamAtk: 0, doubleAtk: 380, specialAtk: 550, hitDef: 400, gripDef: 340, teamDef: 340, doubleDef: 350, specialDef: 0, hp: '5300', sp: '3600', cri: '40', dcri: '30' },
+
+  
+{ img: '#.jpg', name: 'Saw Blade', level: 'Rare', hitAtk: 375, gripAtk: 0, teamAtk: 260, doubleAtk: 200, specialAtk: 280, hitDef: 260, gripDef: 215, teamDef: 220, doubleDef: 220, specialDef: 270, hp: '3300', sp: '1450', cri: '8', dcri: '10' },
+{ img: '#.jpg', name: 'Saw Blade', level: 'Legend', hitAtk: 520, gripAtk: 0, teamAtk: 370, doubleAtk: 290, specialAtk: 380, hitDef: 330, gripDef: 300, teamDef: 290, doubleDef: 290, specialDef: 350, hp: '4800', sp: '2950', cri: '12', dcri: '15' },
+{ img: '#.jpg', name: 'Saw Blade', level: 'Ultimate', hitAtk: 710, gripAtk: 0, teamAtk: 500, doubleAtk: 400, specialAtk: 500, hitDef: 380, gripDef: 390, teamDef: 340, doubleDef: 340, specialDef: 410, hp: '5800', sp: '3550', cri: '15', dcri: '20' },
+
+
+  
 { img: '#.jpg', name: 'GENOCIDE', level: 'Legend', hitAtk: 450, gripAtk: 450, teamAtk: 250, doubleAtk: 250, specialAtk: 450, hitDef: 260, gripDef: 260, teamDef: 200, doubleDef: 200, specialDef: 260, hp: '3600', sp: '2800', cri: '16', dcri: '16' },
 { img: '#.jpg', name: 'GALAXY6', level: 'Legend', hitAtk: 300, gripAtk: 240, teamAtk: 240, doubleAtk: 240, specialAtk: 300, hitDef: 240, gripDef: 240, teamDef: 240, doubleDef: 240, specialDef: 240, hp: '4500', sp: '2400', cri: '10', dcri: '10' },
 { img: '#.jpg', name: 'Over Load', level: 'Legend', hitAtk: 280, gripAtk: 280, teamAtk: 260, doubleAtk: 260, specialAtk: 340, hitDef: 220, gripDef: 220, teamDef: 220, doubleDef: 220, specialDef: 220, hp: '3600', sp: '3000', cri: '10', dcri: '10' },
