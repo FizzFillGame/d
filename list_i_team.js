@@ -1,7 +1,14 @@
 const nomralhairstyleItems = [
 { img: '#.jpg', name: 'GENOCIDE', level: 'Legend', hitAtk: 340, gripAtk: 340, teamAtk: 250, doubleAtk: 250, specialAtk: 450, hitDef: 200, gripDef: 200, teamDef: 200, doubleDef: 200, specialDef: 200, hp: '3600', sp: '2800', cri: '16', dcri: '16' },
 { img: '#.jpg', name: 'GALAXY6', level: 'Ultimate', hitAtk: 300, gripAtk: 240, teamAtk: 310, doubleAtk: 310, specialAtk: 300, hitDef: 240, gripDef: 240, teamDef: 310, doubleDef: 310, specialDef: 240, hp: '4500', sp: '2400', cri: '10', dcri: '10' },
-{ img: '#.jpg', name: 'Over Load', level: 'Legend', hitAtk: 280, gripAtk: 280, teamAtk: 260, doubleAtk: 260, specialAtk: 340, hitDef: 220, gripDef: 220, teamDef: 220, doubleDef: 220, specialDef: 220, hp: '3600', sp: '3000', cri: '10', dcri: '10' }
+{ img: '#.jpg', name: 'Over Load', level: 'Legend', hitAtk: 280, gripAtk: 280, teamAtk: 260, doubleAtk: 260, specialAtk: 340, hitDef: 220, gripDef: 220, teamDef: 220, doubleDef: 220, specialDef: 220, hp: '3600', sp: '3000', cri: '10', dcri: '10' },
+
+  { img: '#.jpg', name: 'Monkey King Wand', level: 'Rare', hitAtk: 290, gripAtk: 290, teamAtk: 210, specialAtk: 290, hitDef: 230, gripDef: 230, teamDef: 230, specialDef: 290, hp: '3000', sp: '1500', cri: '13', dcri: '20' },
+  { img: '#.jpg', name: 'Monkey King Wand', level: 'Legend', hitAtk: 430, gripAtk: 430, teamAtk: 300, specialAtk: 390, hitDef: 290, gripDef: 290, teamDef: 290, specialDef: 290, hp: '4000', sp: '3000', cri: '22', dcri: '30' },
+  { img: '#.jpg', name: 'Monkey King Wand', level: 'Ultimate', hitAtk: 540, gripAtk: 540, teamAtk: 380, specialAtk: 500, hitDef: 360, gripDef: 360, teamDef: 360, specialDef: 360, hp: '5000', sp: '3600', cri: '30', dcri: '40' }
+
+
+
 
 
   ];
