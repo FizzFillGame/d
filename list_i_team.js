@@ -2,7 +2,8 @@ const nomralhairstyleItems = [
 
 { img: '#.jpg', name: 'War Samurai', level: 'Rare', hitAtk: 450, gripAtk: 340, teamAtk: 220, doubleAtk: 0, specialAtk: 380, hitDef: 220, gripDef: 220, teamDef: 180, doubleDef: 0, specialDef: 270, hp: '5400', sp: '2700', cri: '32.5', dcri: '30' },
 { img: '#.jpg', name: 'War Samurai', level: 'Legend', hitAtk: 560, gripAtk: 440, teamAtk: 320, doubleAtk: 0, specialAtk: 470, hitDef: 300, gripDef: 300, teamDef: 250, doubleDef: 0, specialDef: 340, hp: '6000', sp: '3450', cri: '42.5', dcri: '37.5' },
-{ img: '#.jpg', name: 'War Samurai', level: 'Ultimate', hitAtk: 670, gripAtk: 540, teamAtk: 420, doubleAtk: 0, specialAtk: 560, hitDef: 380, gripDef: 380, teamDef: 320, doubleDef: 0, specialDef: 410, hp: '7200', sp: '4350', cri: '52.5', dcri: '45' },
+{ img: '#.jpg', name: 'War Samurai', level: 'Ultimate', hitAtk: 670, gripAtk: 540, teamAtk: 420, doubleAtk: 0, specialAtk: 560, hitDef: 380, gripDef: 380, teamDef: 320, doubleDef: 0, specialDef: 410, hp: '7200', sp: '4350', cri: '52.5', dcri: '50' },
+
 
   
 { img: '#.jpg', name: 'GENOCIDE-X', level: 'Ultimate', hitAtk: 760, gripAtk: 520, teamAtk: 380, doubleAtk: 0, specialAtk: 600, hitDef: 370, gripDef: 320, teamDef: 320, doubleDef: 0, specialDef: 380, hp: '3900', sp: '4500', cri: '37.5', dcri: '37.5' },
