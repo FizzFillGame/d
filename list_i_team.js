@@ -9,15 +9,15 @@ const nomralhairstyleItems = [
 { img: '#.jpg', name: 'GENOCIDE-X', level: 'Ultimate', hitAtk: 760, gripAtk: 520, teamAtk: 380, doubleAtk: 0, specialAtk: 600, hitDef: 370, gripDef: 320, teamDef: 320, doubleDef: 0, specialDef: 380, hp: '3900', sp: '4500', cri: '37.5', dcri: '37.5' },
 
   
-{ img: '#.jpg', name: 'Gatchaman', level: 'Rare', hitAtk: 430, gripAtk: 190, teamAtk: 180, doubleAtk: 0, specialAtk: 480, hitDef: 220, gripDef: 220, teamDef: 180, doubleDef: 0, specialDef: 270, hp: '4500', sp: '2200', cri: '15', dcri: '22.5' },
-{ img: '#.jpg', name: 'Gatchaman', level: 'Legend', hitAtk: 600, gripAtk: 340, teamAtk: 270, doubleAtk: 0, specialAtk: 600, hitDef: 300, gripDef: 300, teamDef: 250, doubleDef: 0, specialDef: 340, hp: '5100', sp: '3000', cri: '20', dcri: '30' },
-{ img: '#.jpg', name: 'Gatchaman', level: 'Ultimate', hitAtk: 740, gripAtk: 490, teamAtk: 360, doubleAtk: 0, specialAtk: 720, hitDef: 380, gripDef: 380, teamDef: 320, doubleDef: 0, specialDef: 410, hp: '6000', sp: '3900', cri: '25', dcri: '37.5' },
+{ img: '#.jpg', name: 'Gatchaman', level: 'Rare', hitAtk: 430, gripAtk: 190, teamAtk: 180, doubleAtk: 0, specialAtk: 480, hitDef: 220, gripDef: 220, teamDef: 180, doubleDef: 0, specialDef: 270, hp: '4500', sp: '2200', cri: '15', dcri: '15' },
+{ img: '#.jpg', name: 'Gatchaman', level: 'Legend', hitAtk: 600, gripAtk: 340, teamAtk: 270, doubleAtk: 0, specialAtk: 600, hitDef: 300, gripDef: 300, teamDef: 250, doubleDef: 0, specialDef: 340, hp: '5100', sp: '3000', cri: '20', dcri: '20' },
+{ img: '#.jpg', name: 'Gatchaman', level: 'Ultimate', hitAtk: 740, gripAtk: 490, teamAtk: 360, doubleAtk: 0, specialAtk: 720, hitDef: 380, gripDef: 380, teamDef: 320, doubleDef: 0, specialDef: 410, hp: '6000', sp: '3900', cri: '25', dcri: '25' },
 
   
 
-{ img: '#.jpg', name: 'Paladin', level: 'Rare', hitAtk: 200, gripAtk: 200, teamAtk: 200, doubleAtk: 0, specialAtk: 260, hitDef: 280, gripDef: 280, teamDef: 220, doubleDef: 220, specialDef: 400, hp: '7500', sp: '2700', cri: '15', dcri: '22.5' },
-{ img: '#.jpg', name: 'Paladin', level: 'Legend', hitAtk: 270, gripAtk: 270, teamAtk: 270, doubleAtk: 0, specialAtk: 330, hitDef: 370, gripDef: 390, teamDef: 310, doubleDef: 310, specialDef: 560, hp: '10300', sp: '3600', cri: '20', dcri: '30' },
-{ img: '#.jpg', name: 'Paladin', level: 'Ultimate', hitAtk: 340, gripAtk: 340, teamAtk: 340, doubleAtk: 0, specialAtk: 400, hitDef: 460, gripDef: 500, teamDef: 400, doubleDef: 400, specialDef: 720, hp: '13100', sp: '4500', cri: '25', dcri: '37.5' },
+{ img: '#.jpg', name: 'Paladin', level: 'Rare', hitAtk: 200, gripAtk: 200, teamAtk: 200, doubleAtk: 0, specialAtk: 260, hitDef: 280, gripDef: 280, teamDef: 220, doubleDef: 220, specialDef: 400, hp: '7500', sp: '2700', cri: '15', dcri: '15' },
+{ img: '#.jpg', name: 'Paladin', level: 'Legend', hitAtk: 270, gripAtk: 270, teamAtk: 270, doubleAtk: 0, specialAtk: 330, hitDef: 370, gripDef: 390, teamDef: 310, doubleDef: 310, specialDef: 560, hp: '10300', sp: '3600', cri: '20', dcri: '20' },
+{ img: '#.jpg', name: 'Paladin', level: 'Ultimate', hitAtk: 340, gripAtk: 340, teamAtk: 340, doubleAtk: 0, specialAtk: 400, hitDef: 460, gripDef: 500, teamDef: 400, doubleDef: 400, specialDef: 720, hp: '13100', sp: '4500', cri: '25', dcri: '25' },
 
 
 
@@ -55,9 +55,9 @@ const nomralhairstyleItems = [
 
 
 
-{ img: '#.jpg', name: 'Gold Blaze', level: 'Rare', hitAtk: 330, gripAtk: 250, teamAtk: 200, doubleAtk: 0, specialAtk: 330, hitDef: 270, gripDef: 220, teamDef: 100, doubleDef: 100, specialDef: 300, hp: '4500', sp: '3450', cri: '27.5', dcri: '22.5' },
-{ img: '#.jpg', name: 'Gold Blaze', level: 'Legend', hitAtk: 440, gripAtk: 330, teamAtk: 290, doubleAtk: 0, specialAtk: 440, hitDef: 380, gripDef: 290, teamDef: 150, doubleDef: 150, specialDef: 380, hp: '5100', sp: '4800', cri: '35', dcri: '30' },
-{ img: '#.jpg', name: 'Gold Blaze', level: 'Ultimate', hitAtk: 550, gripAtk: 410, teamAtk: 380, doubleAtk: 0, specialAtk: 550, hitDef: 490, gripDef: 360, teamDef: 200, doubleDef: 200, specialDef: 460, hp: '6000', sp: '6300', cri: '45', dcri: '37.5' },
+{ img: '#.jpg', name: 'Gold Blaze', level: 'Rare', hitAtk: 330, gripAtk: 250, teamAtk: 200, doubleAtk: 0, specialAtk: 330, hitDef: 270, gripDef: 220, teamDef: 100, doubleDef: 100, specialDef: 300, hp: '4500', sp: '3450', cri: '27.5', dcri: '15' },
+{ img: '#.jpg', name: 'Gold Blaze', level: 'Legend', hitAtk: 440, gripAtk: 330, teamAtk: 290, doubleAtk: 0, specialAtk: 440, hitDef: 380, gripDef: 290, teamDef: 150, doubleDef: 150, specialDef: 380, hp: '5100', sp: '4800', cri: '35', dcri: '20' },
+{ img: '#.jpg', name: 'Gold Blaze', level: 'Ultimate', hitAtk: 550, gripAtk: 410, teamAtk: 380, doubleAtk: 0, specialAtk: 550, hitDef: 490, gripDef: 360, teamDef: 200, doubleDef: 200, specialDef: 460, hp: '6000', sp: '6300', cri: '45', dcri: '25' },
 
 
   
@@ -69,7 +69,7 @@ const nomralhairstyleItems = [
   
 { img: '#.jpg', name: 'Rider', level: 'Rare', hitAtk: 360, gripAtk: 300, teamAtk: 90, doubleAtk: 180, specialAtk: 330, hitDef: 230, gripDef: 200, teamDef: 110, doubleDef: 180, specialDef: 220, hp: '2500', sp: '1500', cri: '13', dcri: '20' },
 { img: '#.jpg', name: 'Rider', level: 'Legend', hitAtk: 480, gripAtk: 420, teamAtk: 150, doubleAtk: 260, specialAtk: 410, hitDef: 310, gripDef: 270, teamDef: 150, doubleDef: 260, specialDef: 290, hp: '4000', sp: '3000', cri: '22', dcri: '30' },
-{ img: '#.jpg', name: 'Rider', level: 'Ultimate', hitAtk: 610, gripAtk: 530, teamAtk: 200, doubleAtk: 330, specialAtk: 480, hitDef: 400, gripDef: 350, teamDef: 200, doubleDef: 350, specialDef: 370, hp: '5000', sp: '3600', cri: '30', dcri: '20' },
+{ img: '#.jpg', name: 'Rider', level: 'Ultimate', hitAtk: 590, gripAtk: 530, teamAtk: 200, doubleAtk: 330, specialAtk: 480, hitDef: 400, gripDef: 350, teamDef: 200, doubleDef: 350, specialDef: 370, hp: '5000', sp: '3600', cri: '30', dcri: '40' },
 
 
   
@@ -85,9 +85,9 @@ const nomralhairstyleItems = [
 { img: '#.jpg', name: 'Monkey King', level: 'Legend', hitAtk: 430, gripAtk: 430, teamAtk: 300, doubleAtk: 150, specialAtk: 390, hitDef: 290, gripDef: 290, teamDef: 290, doubleDef: 150, specialDef: 290, hp: '4000', sp: '3000', cri: '22', dcri: '30' },
 { img: '#.jpg', name: 'Monkey King', level: 'Ultimate', hitAtk: 540, gripAtk: 540, teamAtk: 380, doubleAtk: 200, specialAtk: 500, hitDef: 360, gripDef: 360, teamDef: 360, doubleDef: 200, specialDef: 360, hp: '5000', sp: '3600', cri: '30', dcri: '40' },
 
-{ img: '#.jpg', name: 'Magician', level: 'Rare', hitAtk: 290, gripAtk: 290, teamAtk: 100, doubleAtk: 220, specialAtk: 445, hitDef: 220, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 360, hp: '2500', sp: '2400', cri: '17', dcri: '10' },
-  { img: '#.jpg', name: 'Magician', level: 'Legend', hitAtk: 565, gripAtk: 400, teamAtk: 150, doubleAtk: 300, specialAtk: 620, hitDef: 320, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 375, hp: '3000', sp: '3000', cri: '26', dcri: '15' },
-{ img: '#.jpg', name: 'Magician', level: 'Ultimate', hitAtk: 600, gripAtk: 500, teamAtk: 200, doubleAtk: 380, specialAtk: 760, hitDef: 400, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 500, hp: '4000', sp: '4050', cri: '35', dcri: '20' },
+{ img: '#.jpg', name: 'Magician', level: 'Rare', hitAtk: 290, gripAtk: 290, teamAtk: 100, doubleAtk: 220, specialAtk: 445, hitDef: 220, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 360, hp: '2500', sp: '2400', cri: '14', dcri: '10' },
+  { img: '#.jpg', name: 'Magician', level: 'Legend', hitAtk: 565, gripAtk: 400, teamAtk: 150, doubleAtk: 300, specialAtk: 620, hitDef: 320, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 375, hp: '3000', sp: '3000', cri: '22', dcri: '15' },
+{ img: '#.jpg', name: 'Magician', level: 'Ultimate', hitAtk: 600, gripAtk: 500, teamAtk: 200, doubleAtk: 380, specialAtk: 760, hitDef: 400, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 500, hp: '4000', sp: '4050', cri: '30', dcri: '20' },
 { img: '#.jpg', name: 'Forest', level: 'Rare', hitAtk: 380, gripAtk: 380, teamAtk: 100, doubleAtk: 240, specialAtk: 340, hitDef: 240, gripDef: 240, teamDef: 100, doubleDef: 100, specialDef: 220, hp: '1800', sp: '2800', cri: '12', dcri: '8' },
 { img: '#.jpg', name: 'Forest', level: 'Legend', hitAtk: 510, gripAtk: 510, teamAtk: 150, doubleAtk: 420, specialAtk: 480, hitDef: 310, gripDef: 310, teamDef: 150, doubleDef: 150, specialDef: 290, hp: '3300', sp: '4800', cri: '20', dcri: '13' },
 { img: '#.jpg', name: 'Forest', level: 'Ultimate', hitAtk: 640, gripAtk: 640, teamAtk: 200, doubleAtk: 400, specialAtk: 620, hitDef: 380, gripDef: 380, teamDef: 200, doubleDef: 200, specialDef: 360, hp: '4200', sp: '5900', cri: '27', dcri: '16' }
