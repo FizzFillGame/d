@@ -39,10 +39,9 @@ const nomralhairstyleItems = [
 { img: '#.jpg', name: 'Magician', level: 'Rare', hitAtk: 290, gripAtk: 290, teamAtk: 100, doubleAtk: 220, specialAtk: 445, hitDef: 220, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 360, hp: '2500', sp: '2400', cri: '17', dcri: '10' },
   { img: '#.jpg', name: 'Magician', level: 'Legend', hitAtk: 565, gripAtk: 400, teamAtk: 150, doubleAtk: 300, specialAtk: 620, hitDef: 320, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 375, hp: '3000', sp: '3000', cri: '26', dcri: '15' },
 { img: '#.jpg', name: 'Magician', level: 'Ultimate', hitAtk: 600, gripAtk: 500, teamAtk: 200, doubleAtk: 380, specialAtk: 760, hitDef: 400, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 500, hp: '4000', sp: '4050', cri: '35', dcri: '20' },
-
 { img: '#.jpg', name: 'Forest', level: 'Rare', hitAtk: 380, gripAtk: 380, teamAtk: 100, doubleAtk: 240, specialAtk: 340, hitDef: 240, gripDef: 240, teamDef: 100, doubleDef: 100, specialDef: 220, hp: '1800', sp: '2800', cri: '12', dcri: '8' },
 { img: '#.jpg', name: 'Forest', level: 'Legend', hitAtk: 510, gripAtk: 510, teamAtk: 150, doubleAtk: 420, specialAtk: 480, hitDef: 310, gripDef: 310, teamDef: 150, doubleDef: 150, specialDef: 290, hp: '3300', sp: '4800', cri: '20', dcri: '13' },
-{ img: '#.jpg', name: 'Forest', level: 'Ultimate', hitAtk: 640, gripAtk: 640, teamAtk: 200, doubleAtk: 400, specialAtk: 620, hitDef: 380, gripDef: 380, teamDef: 200, doubleDef: 200, specialDef: 360, hp: '4200', sp: '5900', cri: '27', dcri: '16' },
+{ img: '#.jpg', name: 'Forest', level: 'Ultimate', hitAtk: 640, gripAtk: 640, teamAtk: 200, doubleAtk: 400, specialAtk: 620, hitDef: 380, gripDef: 380, teamDef: 200, doubleDef: 200, specialDef: 360, hp: '4200', sp: '5900', cri: '27', dcri: '16' }
 
 
 
