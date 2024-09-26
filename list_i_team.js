@@ -1,6 +1,7 @@
 const nomralhairstyleItems = [
 
-{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx1SqgCHgxExkN9KT7bXn1eT8luAYRt0XvY_9vXNp42db4J6ZNac-8QvB7oThNzI8cWapDwwdydq55Nlep2FF1CYSuN-aSYJgUeiSnqXHjrSFz-ATttG2A9wJ9MxUgl8V1kAw364NtEtMKuZL8a02zY99Zu1LawTexxkKAfN2Wgf794m60jdBMauYfAfw/s1600/17.jpg', name: 'Black Knight Hair', level: 'Ultimate 3 ส่วน +5555 6 ส่วน +5555 9ส่วน +9999', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '3500', sp: '550', cri: '', dcri: '',bonut:'test dsddsdsd' },
+{ img: '#.jpg', name: 'Over Load', level: 'Legend', hitAtk: 280, gripAtk: 280, teamAtk: 260, doubleAtk: 260, specialAtk: 340, hitDef: 220, gripDef: 220, teamDef: 220, doubleDef: 220, specialDef: 220, hp: '3600', sp: '3000', cri: '10', dcri: '10' }
+
 
   ];
 
