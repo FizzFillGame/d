@@ -1,5 +1,6 @@
 const nomralhairstyleItems = [
-
+{ img: '#.jpg', name: 'GENOCIDE', level: 'Legend', hitAtk: 340, gripAtk: 340, teamAtk: 250, doubleAtk: 250, specialAtk: 450, hitDef: 200, gripDef: 200, teamDef: 200, doubleDef: 200, specialDef: 200, hp: '3600', sp: '2800', cri: '16', dcri: '16' },
+{ img: '#.jpg', name: 'GALAXY6', level: 'Ultimate', hitAtk: 300, gripAtk: 240, teamAtk: 310, doubleAtk: 310, specialAtk: 300, hitDef: 240, gripDef: 240, teamDef: 310, doubleDef: 310, specialDef: 240, hp: '4500', sp: '2400', cri: '10', dcri: '10' },
 { img: '#.jpg', name: 'Over Load', level: 'Legend', hitAtk: 280, gripAtk: 280, teamAtk: 260, doubleAtk: 260, specialAtk: 340, hitDef: 220, gripDef: 220, teamDef: 220, doubleDef: 220, specialDef: 220, hp: '3600', sp: '3000', cri: '10', dcri: '10' }
 
 
