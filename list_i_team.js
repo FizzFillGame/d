@@ -34,7 +34,7 @@ const nomralhairstyleItems = [
   
   { img: '#.jpg', name: 'Monkey King', level: 'Rare', hitAtk: 290, gripAtk: 290, teamAtk: 210, doubleAtk: 90, specialAtk: 290, hitDef: 230, gripDef: 230, teamDef: 230, doubleDef: 110, specialDef: 230, hp: '3000', sp: '1500', cri: '13', dcri: '20' },
 { img: '#.jpg', name: 'Monkey King', level: 'Legend', hitAtk: 430, gripAtk: 430, teamAtk: 300, doubleAtk: 150, specialAtk: 390, hitDef: 290, gripDef: 290, teamDef: 290, doubleDef: 150, specialDef: 290, hp: '4000', sp: '3000', cri: '22', dcri: '30' },
-{ { img: '#.jpg', name: 'Monkey King', level: 'Ultimate', hitAtk: 540, gripAtk: 540, teamAtk: 380, doubleAtk: 200, specialAtk: 500, hitDef: 360, gripDef: 360, teamDef: 360, doubleDef: 200, specialDef: 360, hp: '5000', sp: '3600', cri: '30', dcri: '40' },
+{ img: '#.jpg', name: 'Monkey King', level: 'Ultimate', hitAtk: 540, gripAtk: 540, teamAtk: 380, doubleAtk: 200, specialAtk: 500, hitDef: 360, gripDef: 360, teamDef: 360, doubleDef: 200, specialDef: 360, hp: '5000', sp: '3600', cri: '30', dcri: '40' },
 
 { img: '#.jpg', name: 'Magician', level: 'Rare', hitAtk: 290, gripAtk: 290, teamAtk: 100, doubleAtk: 220, specialAtk: 445, hitDef: 220, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 360, hp: '2500', sp: '2400', cri: '17', dcri: '10' },
   { img: '#.jpg', name: 'Magician', level: 'Legend', hitAtk: 565, gripAtk: 400, teamAtk: 150, doubleAtk: 300, specialAtk: 620, hitDef: 320, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 375, hp: '3000', sp: '3000', cri: '26', dcri: '15' },
