@@ -22,6 +22,18 @@ const nomralhairstyleItems = [
   
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSoVj2tLAQtvUbwIXSgEIoll0r7kTPotrakW20Tl9CP5e9T04TJwwCEGvXYb7GHzkY-1OrHuVhqw2J4Qnl9FKcF1kwBDecXnxhrpmfsgCZ8uupq_Dv2TGjkyI40gXnWgToFIbOf6_VYJ1UZ6qLaYRfGfCkAWjgJP79osBqEysBzHbDWnZM-hLPD0DoyAw/s1600/gx3.png', name: 'GENOCIDE-X', level: 'Ultimate', hitAtk: 760, gripAtk: 520, teamAtk: 380, doubleAtk: 200, specialAtk: 600, hitDef: 370, gripDef: 320, teamDef: 320, doubleDef: 200, specialDef: 380, hp: '3900', sp: '4500', cri: '25', dcri: '37.5' },
 
+
+
+ 
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyh3LBt2_j5x1CX0kN_mI7UUPTkBmEZfphDRLjJ4rrELHYPgJoIeEhSyTkQgdT27iDGUaKWft8-Mnot-mQSRRbEwdHX9ygDSgZzD0r9GSTrXRxBLgjodoOhtLfLZyyHlryVCGv3QLwv2jVoM3Pg8D-fFUGK0AMhS6PUBLl5gddqBNoCXMX5IQTLWmXarE/s1600/mm1.png', name: 'Rare Magician', level: 'Rare', hitAtk: 290, gripAtk: 290, teamAtk: 100, doubleAtk: 220, specialAtk: 445, hitDef: 220, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 305, hp: '2500', sp: '2400', cri: '14', dcri: '10' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilswZ2YZo9PSUEFFAcXiSAYmhYYBYkyB_ipnIO13yXsZGBjQ-nzif1i6TYJ6C-NvD87fdCISY-_X8557nm2qC581d_4LRpjUOfHRmZz693PuT-19gvCcwIhrhlYUjsqq2Klvb_4vxPZ10pqGEz0rtPx3zuN7bBODZ8D1z6RxFnYNEcTz8c9T1KRhFPcUs/s1600/mm2.png', name: 'Legend Magician', level: 'Legend', hitAtk: 45, gripAtk: 400, teamAtk: 150, doubleAtk: 300, specialAtk: 620, hitDef: 320, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 375, hp: '3000', sp: '3000', cri: '22', dcri: '15' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Er5hRHxpbdcUWif_Pj9IPJy73VN84KwjbRVHgg0qASoi2xJFffH6TnSkrQp0yZTELYaN0avtaSOXvNYCjqK45C3iXEMUipOsi2nhRUJl2QK1tya3uNNCL7hv9xEkl8cGH_43DC7rkIk1q3lKQYZFsWPCbH3HR7F-1YXyGR_nnkxBgAPEdwpyF4m1CeA/s1600/mm3.png', name: 'Ultimate Magician', level: 'Ultimate', hitAtk: 500, gripAtk: 500, teamAtk: 200, doubleAtk: 380, specialAtk: 760, hitDef: 320, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 500, hp: '4000', sp: '4050', cri: '30', dcri: '20' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGv9XlpNgiM_R_w8MI91_L5J4q7hPQvZyDUW9U_iI1_i0vl1ECayP_oKSEbKS3po_kDKtnq1akLl1R2JLLE0yrVg4l6xjACdlvvbv2xPbqviFPROMTOp9dVwuNFtWX2B3yoS8yCHijiE2TXCRf5Un8iZWjeGg_ZFTJHh_crPmN8PS7mpFc7JhXBR_Gu5o/s1600/f1.png', name: 'Rare Forest', level: 'Rare', hitAtk: 310, gripAtk: 310, teamAtk: 100, doubleAtk: 240, specialAtk: 340, hitDef: 240, gripDef: 240, teamDef: 100, doubleDef: 100, specialDef: 220, hp: '1800', sp: '2800', cri: '12', dcri: '8' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw7cP9FAjdOMNuRLL7WLhc_DK4JXiV3CtaZCp8OXmX7bfNnXdLeewb4qYkMwG8bMcNr7sfRjQhTSgGwedCRUdQ0N-2U97yYn2g-zu1ZteDPBCcWix4raluHqcKXF1SS0K4x4pHD1O64XmjxoNsv2ZKBzXb7O0tMLvc604dmB5yt8SlbyqkhHTAxnw6Ikk/s1600/f2.png', name: 'Legend Forest', level: 'Legend', hitAtk: 420, gripAtk: 420, teamAtk: 150, doubleAtk: 330, specialAtk: 480, hitDef: 310, gripDef: 310, teamDef: 150, doubleDef: 150, specialDef: 290, hp: '3300', sp: '4800', cri: '20', dcri: '13' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5hyphenhyphenXJaYBq3J73vXGWjpOCOCf9oLBHrdClgXvaBMdQPSzDK1d-qlkzVG1GrsFceiXLsaUqLlGEnymDmZXdSSsfg_2AdBNFlhGtLQWpog2kADXel1kAWPRKcqB4Nj1PzOZNLIZCBgoM06QG7_yPpHlwQyjIW70K9hwavkDtpipmRBiVCKapmHMPhneqAUY/s1600/f3.png', name: 'Ultimate Forest', level: 'Ultimate', hitAtk: 530, gripAtk: 530, teamAtk: 200, doubleAtk: 400, specialAtk: 620, hitDef: 380, gripDef: 380, teamDef: 200, doubleDef: 200, specialDef: 360, hp: '4200', sp: '5900', cri: '27', dcri: '16' },
+
+
+  
   
 
   ];
