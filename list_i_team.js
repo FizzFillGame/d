@@ -1,3 +1,7 @@
+const nicknamestyleItems = [
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3_Dgdh46Nmf_IYbbIRU3iKiucYdsVwM-yshgRgyPew2HXUVOkHJTutbbGSFwQ7n1AXdLQHe55w3zK-eKzjFaz5LIXfM4s_G__rmm3mAH5M1mOJI1g1W9VQrlLP0fl-YBqtA2demFeMs0HI2C_CWhxBPvl3p_Qs29aXg07fJqweuovn1FnbJ_lQQXzk_s/s1600/ga1.png', name: 'Legend GENOCIDE', level: 'Legend', hitAtk: 340, gripAtk: 340, teamAtk: 250, doubleAtk: 250, specialAtk: 340, hitDef: 200, gripDef: 200, teamDef: 200, doubleDef: 200, specialDef: 200, hp: '3600', sp: '2800', cri: '16', dcri: '16' },
+];
+
 const nomralhairstyleItems = [
 
   
