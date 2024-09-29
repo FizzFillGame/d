@@ -1,5 +1,5 @@
 const nicknamestyleItems = [
-{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4Vh2UXtbCyvyZ_adSBf0YS8VL0-r5LMLRypR0lBPrRbF7-LitTlYbRW24ApcmN85sVwcm_lblojjmxUYg3NQCMB66SeRx6FQr0n8jGHuhUc4DYQZvSF64cbLWZ6F42FWIFWcRnEo2TvuYmfeJHtdLR9kbf7csiI1QLaQSJF4BbOmGHi2nkRp-yXmgQc/s1600/1.png', name: 'Newbie', level: 'Chap 1', hitAtk: 'texstsdsd', gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4Vh2UXtbCyvyZ_adSBf0YS8VL0-r5LMLRypR0lBPrRbF7-LitTlYbRW24ApcmN85sVwcm_lblojjmxUYg3NQCMB66SeRx6FQr0n8jGHuhUc4DYQZvSF64cbLWZ6F42FWIFWcRnEo2TvuYmfeJHtdLR9kbf7csiI1QLaQSJF4BbOmGHi2nkRp-yXmgQc/s1600/1.png', name: 'Newbie', level: 'Chap 1',testtext: 'sdsddsd', hitAtk: 'texstsdsd', gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
 ];
 
 const nomralhairstyleItems = [
