@@ -21,7 +21,51 @@ const nicknamestyleItems = [
   { img: '#', name: 'Our First Step', level: 'Special Atk +10% วิ่งเร็ว 20 % ',hitAtk: 0, gripAtk: 0, teamAtk: 100, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '800', sp: '350', cri: '3.5', dcri: '' },
   { img: '#', name: '1st Anniversario', level: 'Special Atk +10% วิ่งเร็ว 20 % ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 100, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '800', sp: '350', cri: '3.5', dcri: '' },
   
+  { img: '#', name: 'Halloween Castle (Red)', level: ' วิ่งเร็ว 30 % ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 100, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 80, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Halloween Castle (Blue)', level: ' วิ่งเร็ว 30 % ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1200', sp: '', cri: '3', dcri: '' },
+  { img: '#', name: 'Pumpkin (Red)', level: ' วิ่งเร็ว 20 % ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 70, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 50, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Pumpkin (Blue)', level: ' วิ่งเร็ว 20 % ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '600', sp: '', cri: '1.5', dcri: '' },
   
+  { img: '#', name: 'INHUMAN (ZenEgg lll)', level: 'Special Atk +15% วิ่งเร็ว 20 % ',hitAtk: 100, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1000', sp: '500', cri: '10', dcri: '' },
+  { img: '#', name: 'METAHUMAN (ZenEgg IV)', level: 'Special Atk +15% วิ่งเร็ว 20 % ',hitAtk: 100, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1000', sp: '500', cri: '', dcri: '10' },
+   { img: '#', name: 'MUTANTS (ZenEgg V)', level: 'Special Atk +15% วิ่งเร็ว 20 % ',hitAtk: 100, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1000', sp: '1500', cri: '', dcri: '7.5' },
+
+  
+{ img: '#', name: 'I Love vacation ', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Endless vacation ', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Exciting Vacation ', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Dream vacation ', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Beautiful vacation ', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Fantastic Vacation ', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+
+  
+  { img: '#', name: 'Love Of Mother', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+   { img: '#', name: 'Great Mother', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'I Love Mom', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Happy Birthday Mother', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+
+    { img: '#', name: 'D-Chocolate Love', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+    { img: '#', name: 'W-Chocolate Love', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+    { img: '#', name: 'Valentine Love', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+
+  { img: '#', name: 'Happy Vacation', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Fun Vacation', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Exciting Vacation', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Joy Vacation', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Good Vacation', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Fantastic Vacation', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+
+   { img: '#', name: ' Loi Krathong Day', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+   { img: '#', name: 'Fantastic Vacation', level: 'รออัพเดตข้อมูล ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+
+
+  
+  
+  
+  
+  
+
+
   
   
   
