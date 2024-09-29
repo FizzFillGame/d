@@ -1,5 +1,24 @@
 const nicknamestyleItems = [
-{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4Vh2UXtbCyvyZ_adSBf0YS8VL0-r5LMLRypR0lBPrRbF7-LitTlYbRW24ApcmN85sVwcm_lblojjmxUYg3NQCMB66SeRx6FQr0n8jGHuhUc4DYQZvSF64cbLWZ6F42FWIFWcRnEo2TvuYmfeJHtdLR9kbf7csiI1QLaQSJF4BbOmGHi2nkRp-yXmgQc/s1600/1.png', name: 'Newbie', level: 'Chap 1 / PVP MODE หลังจาก KO SP+30',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4Vh2UXtbCyvyZ_adSBf0YS8VL0-r5LMLRypR0lBPrRbF7-LitTlYbRW24ApcmN85sVwcm_lblojjmxUYg3NQCMB66SeRx6FQr0n8jGHuhUc4DYQZvSF64cbLWZ6F42FWIFWcRnEo2TvuYmfeJHtdLR9kbf7csiI1QLaQSJF4BbOmGHi2nkRp-yXmgQc/s1600/1.png', name: 'Newbie (Chap 1)', level: ' PVP MODE หลังจาก KO SP+30',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Ground Sleeper (Chap 1)', level: ' Super Attac Hit +3% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'New Comer (Chap 1)', level: ' ได้รับ Zen เพิ่ม +2% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Party Enjoyerr (Chap 1)', level: ' ได้รับ Exp เพิ่ม +2% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+   { img: '#', name: 'Saint Newborn (Chap 1)', level: ' Hit Ability +1% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+   { img: '#', name: 'Team Fighter (Chap 1)', level: ' Defence ability +1% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Combo Master (Chap 2)', level: ' +10 SP ต่อคอมโบ ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Superman Power (Chap 2)', level: ' โจมตีโดยท่าจับ Grip จะได้รับ +80 SP ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+   { img: '#', name: 'Bullet Dodge (Chap 2)', level: ' เมื่อ Evade สำเร็จ +SP 80 ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Technical Fighter (Chap 2)', level: ' +30% Critical เมื่อทำ Double Attack ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Street Fighter (Chap 2)', level: ' Team Attack Hit Ability +20% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Fantastic Fighter (Chap 2)', level: ' Super Attack Hit Ability (E) +30%  ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+   { img: '#', name: 'Damage Dealer (Chap 2)', level: ' +40 Hit Ability (ทะลุ Def) ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Victory Bringer (Chap 2)', level: ' Def Ability +4%, Hit Ability +3% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'Team Master', level: ' ใน PVP หลังจาก KO, +100 SP',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  { img: '#', name: 'By-X Surpriser', level: ' Def Ability -1%, Hit Ability +6% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+  
+  
+  
+  
 ];
 
 const nomralhairstyleItems = [
