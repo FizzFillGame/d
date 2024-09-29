@@ -15,6 +15,8 @@ const nicknamestyleItems = [
   { img: '#', name: 'Victory Bringer (Chap 2)', level: ' Def Ability +4%, Hit Ability +3% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
   { img: '#', name: 'Team Master', level: ' ใน PVP หลังจาก KO, +100 SP',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
   { img: '#', name: 'By-X Surpriser', level: ' Def Ability -1%, Hit Ability +6% ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+
+  { img: '#', name: 'Extreme 1st Anniversary', level: ' Hit Atk +100 Special Atk +20% Hp +1000 Sp +500 Cri Dmg +3.5 วิ่งเร็ว 20 % ',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
   
   
   
