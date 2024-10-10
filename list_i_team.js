@@ -1,8 +1,7 @@
 const nicknamestyleItems = [
 
-
-{ img: '#', name: 'Halloween Pot', level: 'Ultimate', hitAtk: 180, gripAtk: 180, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3000', sp: '0', cri: '10', dcri: '10' },
-{ img: '#', name: 'Big pumpkin head', level: 'Ultimate', hitAtk: 180, gripAtk: 180, teamAtk: 180, doubleAtk: , specialAtk: 0, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '2000', cri: '10', dcri: '10' },
+{ img: '#', name: 'Halloween Pot', level: 'Ultimate', hitAtk: 180, gripAtk: 180, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3000', sp: '', cri: '10', dcri: '10' },
+{ img: '#', name: 'Big pumpkin head', level: 'Ultimate', hitAtk: 180, gripAtk: 180, teamAtk: 180, doubleAtk: 0, specialAtk: 0, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '2000', cri: '10', dcri: '10' },
 { img: '#', name: 'Pumpkin candy', level: 'Ultimate', hitAtk: 180, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 180, hp: '', sp: '1500', cri: '10', dcri: '10' },
 { img: '#', name: 'Halloween Zombie Hands', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '1000', cri: '10', dcri: '' },
 { img: '#', name: 'Halloween Mirror (Silver)', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 190, gripDef: 180, teamDef: 170, doubleDef: 170, specialDef: 190, hp: '4500', sp: '0', cri: '5.5', dcri: '4.5' },
@@ -21,9 +20,6 @@ const nicknamestyleItems = [
 { img: '#', name: 'Circle Energy Buster', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 160, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '2000', sp: '', cri: '', dcri: '10' },
 { img: '#', name: 'Circle Energy Eye', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '1200', cri: '', dcri: '10' },
 { img: '#', name: 'Circle Energy Ring', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2300', sp: '1000', cri: '10', dcri: '' },
-
-
-
 
 
 
