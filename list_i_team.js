@@ -1,6 +1,35 @@
 const nicknamestyleItems = [
 
 
+{ img: '#', name: 'Halloween Pot', level: 'Ultimate', hitAtk: 180, gripAtk: 180, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '3000', sp: '0', cri: '10', dcri: '10' },
+{ img: '#', name: 'Big pumpkin head', level: 'Ultimate', hitAtk: 180, gripAtk: 180, teamAtk: 180, doubleAtk: , specialAtk: 0, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '2000', cri: '10', dcri: '10' },
+{ img: '#', name: 'Pumpkin candy', level: 'Ultimate', hitAtk: 180, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 180, hp: '', sp: '1500', cri: '10', dcri: '10' },
+{ img: '#', name: 'Halloween Zombie Hands', level: 'Ultimate', hitAtk: 175, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '1000', cri: '10', dcri: '' },
+{ img: '#', name: 'Halloween Mirror (Silver)', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 190, gripDef: 180, teamDef: 170, doubleDef: 170, specialDef: 190, hp: '4500', sp: '0', cri: '5.5', dcri: '4.5' },
+{ img: '#', name: 'Halloween Candle', level: 'Legend', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 175, hitDef: 180, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 180, hp: '', sp: '2000', cri: '', dcri: '15' },
+{ img: '#', name: 'Halloween Goest', level: 'Legend', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 150, hitDef: 0, gripDef: 150, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '1250', cri: '', dcri: '12.5' },
+{ img: '#', name: 'Halloween Shoes (Brown)', level: 'Legend', hitAtk: 145, gripAtk: 145, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '850', cri: '', dcri: '10' },
+{ img: '#', name: 'Silver Owl Ring', level: 'Legend', hitAtk: 120, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 120, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1200', sp: '1000', cri: '', dcri: '10' },
+{ img: '#', name: 'Devil Mask (Blue)', level: 'Legend', hitAtk: 100, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 100, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '350', cri: '5', dcri: '5' },
+{ img: '#', name: 'Devil s HB (Blue)', level: 'Rare', hitAtk: 100, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 100, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1500', sp: '750', cri: '5', dcri: '' },
+{ img: '#', name: 'Circle Energy Hair', level: 'Ultimate', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 150, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '850', cri: '', dcri: '6' },
+{ img: '#', name: 'Circle Energy Face', level: 'Ultimate', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 150, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '850', cri: '6', dcri: '' },
+{ img: '#', name: 'Circle Energy Shirt', level: 'Ultimate', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 150, hitDef: 150, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Circle Energy Pants', level: 'Ultimate', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 150, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2500', sp: '', cri: '', dcri: '' },
+{ img: '#', name: 'Circle Energy Gloves', level: 'Ultimate', hitAtk: 155, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 155, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '850', cri: '10', dcri: '' },
+{ img: '#', name: 'Circle Energy Shoes', level: 'Ultimate', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 155, hp: '', sp: '900', cri: '10', dcri: '' },
+{ img: '#', name: 'Circle Energy Buster', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 160, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '2000', sp: '', cri: '', dcri: '10' },
+{ img: '#', name: 'Circle Energy Eye', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 160, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '1200', cri: '', dcri: '10' },
+{ img: '#', name: 'Circle Energy Ring', level: 'Ultimate', hitAtk: 160, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 160, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2300', sp: '1000', cri: '10', dcri: '' },
+
+
+
+
+
+
+
+  
+
   { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwZAdUcgo6UjmNpWWcO_SYIU5sFGQ9dvj-mQTGqzwQ3iMuwBTW-RxXE9YTPLIij3yYEs6bWz9MIqlJWWrF51IR34eIKWfptb4PWudjEntJlWfwg-CkZ2I5_vLnMS6jzVlBdKkOceiI2REVypzd4CD0X_VXWI0_3u8CKROUzaDo4Zm1Ro0KwbtmZpQcXYI/s1600/17.png', name: 'Extreme 1st Anniversary', level: 'Special Atk +20% วิ่งเร็ว 20 % ',hitAtk: 100, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1000', sp: '500', cri: '', dcri: '3.5' },
   { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHgX6gYHtxBrQXUluGAvlDernSe9PaqexSYHoSheSz8hKCqtuIsyLhmW-zW487wdKpwPbivF51IUGXISuKqQjvyvNRQWrXThB_WulXXoWISsTBtK69IrEJnH_1_LBlhGeyEolYSAnro5Czu4nMIM88kt4L4O9W78g7bh2xEkRRj4LPSjhgg_MB9w9vTBc/s1600/18.png', name: '1 Year Old Z4', level: 'Special Atk +15% วิ่งเร็ว 20 % ',hitAtk: 0, gripAtk: 100, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '1000', sp: '500', cri: '', dcri: '3.5' },
   { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiom5yZb5n2yj-FUfLabTnL8Aem4CFrs4-W15WnmPH9KIzfmmofB5Zqvji4Nwc2eX9n0sS5tghyphenhyphenwuZwe75nKAhj9v7-oosa4hOOFo9zkPa-ju17T7Yr4jm6T6b1PY2ASrYfHnTYqT5n7f2n0oCotHJk0h75n9qlnygqqgfAGdt8Y_rj1c02_JpVzgUxRVY/s1600/19.png', name: 'Our First Step', level: 'Special Atk +10% วิ่งเร็ว 20 % ',hitAtk: 0, gripAtk: 0, teamAtk: 100, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '800', sp: '350', cri: '3.5', dcri: '' },
