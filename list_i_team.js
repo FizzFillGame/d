@@ -144,7 +144,7 @@ const nicknamestyleItems = [
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItDKMreN_HfWbwKcjrfKlkF1ITX6WnlmmWyoy1NzWuFSBI-jvdZ4C1iiUG8YEXo6ORnPPqRF77BgXG6DHSJE3zlxz-emibwiwOhuNdaH0a5Y8LIge2xMoQzfk6g6rK2IDnk9tjaxKuC2P5zPCfIqx0Adk8nd37Cnvj1oRvtGgr9M1XoxvOrvXw1U2XPM/s1600/Elephant%20Hat.png', name: 'Elephant Hat', level: 'Ultimate', hitAtk: 180, gripAtk: 190, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2000', sp: '1500', cri: '', dcri: '12.5' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU3-fEfwbayJNWj5uTDxhzJe9AWLFBzgNiPjzBUvVUTqMrFPu-NqEgbXKaxXhPWDvi7jW9XKGgV8uLqsFhaQE-G8T7CrCkI0iWgpi6k4-WRns_w9NBXiIp7T9aVwvjwqPw9wd4RgWmZJGIy3z3CQzuBTGXEX8QLSOTc0vzKYblooG2NC7AFKYQBikCNmo/s1600/w-h.png', name: 'Soldier Battle Helm', level: 'Ultimate', hitAtk: 170, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 170, hitDef: 170, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 170, hp: '3000', sp: '1700', cri: '', dcri: '' },
 
-{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZYUZdL_SfveY20ZfcFzgNLhynJ814waazIdz4WLv0WLrzElhQB77G0dWBGvT-wAlZeKWecCoXoLw7_-Iep9LpgRH35kHTNhl0G1Nt8sqngWb4q-_jYkLyw8dwsYJeJSUH5DgyG1jpQ2KSq-leT_f33TXKgZ4tGMM4lReLTDipMpHUgtUzbKx2shj9lQ/s1600/1.png', name: 'Black Bunny Hair', level: 'Ultimate', hitAtk: 180, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 160, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '2500', sp: '1400', cri: '7.5', dcri: '' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZYUZdL_SfveY20ZfcFzgNLhynJ814waazIdz4WLv0WLrzElhQB77G0dWBGvT-wAlZeKWecCoXoLw7_-Iep9LpgRH35kHTNhl0G1Nt8sqngWb4q-_jYkLyw8dwsYJeJSUH5DgyG1jpQ2KSq-leT_f33TXKgZ4tGMM4lReLTDipMpHUgtUzbKx2shj9lQ/s1600/1.png', name: 'Black Bunny Hair', level: 'Ultimate', hitAtk: 180, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 160, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '', sp: '1400', cri: '7.5', dcri: '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRNDki6R5kJaMS8Or8I5ArogLES4iRxXRWUVxei6EnaYvMfgfyRPI1lu2JDnrSxlm6LM2scG2KyzFAw-vWVVq4HKmKW9c-0AGqoRrt-fxKCk-Ta6YyMrQzTIDb2_bWh8Yk7zzuuidJXq9oPmmDAhhRDflTS0vEWpVdH5RjgsLujddobNmNpsgAhCq_lFM/s1600/1.png', name: 'Blue Serenade Hair Blossom Twirls Hair', level: 'Mystic', hitAtk: 205, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 205, hitDef: 220, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 220, hp: '3000', sp: '2500', cri: '', dcri: '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvRF6IEike76GufvOWntfZLoFDVvIRsGK7Q3BkZYfIvfhTRcOh7qm344T3sVMUKtpnAehxcAnnsbkohrGOJ89D8rxbcEKyqweDAVtAIpXinvnWEGInGiHGu4AlEvv6k-1VqwVmIDZAbfYLPm0vTPthYm1uVMSobeg4hWMt0Sdd9phxJZ36fz0HAiSrgg0/s1600/9.png', name: 'Dancer Hair', level: 'Ultimate', hitAtk: 170, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 170, hp: '', sp: '850', cri: '', dcri: '10' },
 
@@ -1336,6 +1336,7 @@ const nicknamestyleItems = [
 
 
       ];
+
 
 
 
