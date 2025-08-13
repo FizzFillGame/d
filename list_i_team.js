@@ -53,6 +53,11 @@ const nicknamestyleItems = [
     { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_lkPBXbtb6c3T3Hqd70Be4xx9OzQPS5sFoesD22KErolrnUAQvg-rv_iTSif4mhmJAyDFm3rJdmLTBhsAr47MJuZZ6KbvoIVDTxNUGh7N0LSdxjkr0iGvDPnNbEoEhCrTuzXk7BFLm4hYJQwcIkODXYOK_URnLYmWrQTBc8hzOCOIiliazrnIcpN6nmE/s1600/6.png', name: 'TeamPlay Master', level: ' ใน PVP หลังจาก KO, +100 SP',hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '', cri: '', dcri: '' },
   ];
   const nomralhairstyleItems = [
+
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVt4W1jHYav1flM2lUoI27ZMmPvniApneLcyZijO9RI2FByWbewNzp-LKrAJpNo7TbtZUhZdfT4OaDx27mkwQwwbH6QkskpgL112WgLM634EvN9jZb9shl286IqkHgqcEvSXqxCrc3dv_-tml-evGO4k-7YggPl4o4cviEqVb6AwYNH5JY66RLoU_FhzM/s1600/war_gachaman.png', name: 'Rare War Gachaman Set', level: 'Rare', hitAtk: 370, gripAtk: 360, teamAtk: 100, doubleAtk: 100, specialAtk: 400, hitDef: 90, gripDef: 90, teamDef: 55, doubleDef: 55, specialDef: 210, hp: '4200', sp: '3200', cri: '30', dcri: '32.5' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVt4W1jHYav1flM2lUoI27ZMmPvniApneLcyZijO9RI2FByWbewNzp-LKrAJpNo7TbtZUhZdfT4OaDx27mkwQwwbH6QkskpgL112WgLM634EvN9jZb9shl286IqkHgqcEvSXqxCrc3dv_-tml-evGO4k-7YggPl4o4cviEqVb6AwYNH5JY66RLoU_FhzM/s1600/war_gachaman.png', name: 'Legend War Gachaman Set', level: 'Legend', hitAtk: 680, gripAtk: 520, teamAtk: 245, doubleAtk: 245, specialAtk: 480, hitDef: 160, gripDef: 130, teamDef: 70, doubleDef: 70, specialDef: 300, hp: '4800', sp: '4450', cri: '40', dcri: '40' },
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVt4W1jHYav1flM2lUoI27ZMmPvniApneLcyZijO9RI2FByWbewNzp-LKrAJpNo7TbtZUhZdfT4OaDx27mkwQwwbH6QkskpgL112WgLM634EvN9jZb9shl286IqkHgqcEvSXqxCrc3dv_-tml-evGO4k-7YggPl4o4cviEqVb6AwYNH5JY66RLoU_FhzM/s1600/war_gachaman.png', name: 'Ultimate War Gachaman Set', level: 'Ultimate', hitAtk: 900, gripAtk: 680, teamAtk: 335, doubleAtk: 335, specialAtk: 620, hitDef: 200, gripDef: 190, teamDef: 90, doubleDef: 90, specialDef: 360, hp: '5250', sp: '6000', cri: '47.5', dcri: '50' },
+
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSh-JmIISBHHOGV06seGS6w-dlVeLClSVE02KWkkhi_9QJvRhSpVmI3e73mYI-NRJvH8mf22xVFa9QNgbH0pz1hg5L12WI5ABMYlx9ieaAHSoidaX1jfaBOuhyKvDWArnVIiZZpF_pUhVZ9uAaktq5CkFqgIAiF9iEfYrXB70l3BSt5b-F1Yq4y1onYQ0/s1600/001.png', name: 'Rare War Magician', level: 'Rare', hitAtk: 410, gripAtk: 320, teamAtk: 0, doubleAtk: 0, specialAtk: 470, hitDef: 360, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 390, hp: '4500', sp: '4500', cri: '30', dcri: '35' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSh-JmIISBHHOGV06seGS6w-dlVeLClSVE02KWkkhi_9QJvRhSpVmI3e73mYI-NRJvH8mf22xVFa9QNgbH0pz1hg5L12WI5ABMYlx9ieaAHSoidaX1jfaBOuhyKvDWArnVIiZZpF_pUhVZ9uAaktq5CkFqgIAiF9iEfYrXB70l3BSt5b-F1Yq4y1onYQ0/s1600/001.png', name: 'Legend War Magician', level: 'Legend', hitAtk: 580, gripAtk: 390, teamAtk: 0, doubleAtk: 0, specialAtk: 680, hitDef: 520, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 580, hp: '5100', sp: '4750', cri: '37.5', dcri: '45' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSh-JmIISBHHOGV06seGS6w-dlVeLClSVE02KWkkhi_9QJvRhSpVmI3e73mYI-NRJvH8mf22xVFa9QNgbH0pz1hg5L12WI5ABMYlx9ieaAHSoidaX1jfaBOuhyKvDWArnVIiZZpF_pUhVZ9uAaktq5CkFqgIAiF9iEfYrXB70l3BSt5b-F1Yq4y1onYQ0/s1600/001.png', name: 'Ultimate War Magician', level: 'Ultimate', hitAtk: 820, gripAtk: 440, teamAtk: 0, doubleAtk: 0, specialAtk: 900, hitDef: 730, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 720, hp: '6000', sp: '8300', cri: '45', dcri: '55' },
@@ -1294,6 +1299,7 @@ const nicknamestyleItems = [
 
 
       ];
+
 
 
 
