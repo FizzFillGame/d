@@ -115,6 +115,9 @@ const nicknamestyleItems = [
   { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Lpe311AfGXUJ3qz3_wQoU9pyYV4cvtp3ZgOeqH2Fk7vA42SxrSQqO-yIVmnt84_Vk1J-2dWuyCBoCQTIQCpyc-7_76-8gPgyctv1FPdroF1lkUD1whfOJ43Fww4H4Pcjlhn-Y46FYKe4NQhJLmcAva9KNfBGD6uCri-OyMPCEvyBlKzlc1RaSfZaJr0/s1600/gg3.png', name: 'Ultimate Gatchaman', level: 'Ultimate', hitAtk: 740, gripAtk: 490, teamAtk: 360, doubleAtk: 200, specialAtk: 720, hitDef: 380, gripDef: 380, teamDef: 320, doubleDef: 200, specialDef: 410, hp: '6000', sp: '3900', cri: '25', dcri: '25' },
 ];
   const hairstyleItems = [
+
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGrZcHcFTqxc7yxt12tqYreNm5yDDQEyDhNJUBis05Zc8l3sa9vBC4SjsHH5HyjljbFvrxP8C-Od7ldoYt1FmMfD_fE8UU8MU2KjIQdn2GfH-CdqJwrmls_zgIoab0tI_7-bGrrxEIjRf3kCmfa3KkVclw58kIknR3551mA4JIU0koPtPOiIRplYlu/s1600/Swimming%20Hair.png', name: 'Swimming Hair', level: 'Ultimate', hitAtk: 170, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 170, hitDef: 170, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '750', cri: '', dcri: '7.5' },
+
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZYUZdL_SfveY20ZfcFzgNLhynJ814waazIdz4WLv0WLrzElhQB77G0dWBGvT-wAlZeKWecCoXoLw7_-Iep9LpgRH35kHTNhl0G1Nt8sqngWb4q-_jYkLyw8dwsYJeJSUH5DgyG1jpQ2KSq-leT_f33TXKgZ4tGMM4lReLTDipMpHUgtUzbKx2shj9lQ/s1600/1.png', name: 'Black Bunny Hair', level: 'Ultimate', hitAtk: 180, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 180, hitDef: 160, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 160, hp: '2500', sp: '1400', cri: '7.5', dcri: '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRNDki6R5kJaMS8Or8I5ArogLES4iRxXRWUVxei6EnaYvMfgfyRPI1lu2JDnrSxlm6LM2scG2KyzFAw-vWVVq4HKmKW9c-0AGqoRrt-fxKCk-Ta6YyMrQzTIDb2_bWh8Yk7zzuuidJXq9oPmmDAhhRDflTS0vEWpVdH5RjgsLujddobNmNpsgAhCq_lFM/s1600/1.png', name: 'Blue Serenade Hair Blossom Twirls Hair', level: 'Mystic', hitAtk: 205, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 205, hitDef: 220, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 220, hp: '3000', sp: '2500', cri: '', dcri: '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvRF6IEike76GufvOWntfZLoFDVvIRsGK7Q3BkZYfIvfhTRcOh7qm344T3sVMUKtpnAehxcAnnsbkohrGOJ89D8rxbcEKyqweDAVtAIpXinvnWEGInGiHGu4AlEvv6k-1VqwVmIDZAbfYLPm0vTPthYm1uVMSobeg4hWMt0Sdd9phxJZ36fz0HAiSrgg0/s1600/9.png', name: 'Dancer Hair', level: 'Ultimate', hitAtk: 170, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 170, hp: '', sp: '850', cri: '', dcri: '10' },
@@ -1156,3 +1159,4 @@ const nicknamestyleItems = [
 
 
       ];
+
