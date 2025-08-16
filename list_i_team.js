@@ -1,5 +1,5 @@
 const nicknamestyleItems = [
-
+{ img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYYdV3UzBOXdVQUKE3kFo6m_V2PCP3uLgyFMoTldR0kLVz6EEBLfv0es3iv_uoNMgOZh7XiJ9lP75snLwQoz2tF7HlXxwufS4CumD4HPhSzcvAoi5_C7qV3VofEbbjvPeefwp2AjhuuEjGFu2_gJ4EskwOQy-kKwkj3-_qXbo4cnNl6GWTJjBzTVIW7tg/s1600/Type-A.png', name: 'วัยรุ่นสร้างตัว', level: 'Super Attack Hit Ability +15% Town Moving Speed +30%', hitAtk: 0, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 150, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '', sp: '1500', cri: '', dcri: '15' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC1S7zvfbndQNh4opcf3bS_6uapx7TAelo73zJhJMoOM_CYgMfjeCRzMvyVTFKIN19VKBGhU0zSF-7494g-lmD2810ZaY8OUWBKQ1d106qVgHceU0hYCuZoUbwTVq_p70p6uTHrwX6ixeYFwZfRCxZEgfkXoDjifR53jjgs81IOp3972Kqg-uaBmlzE-s/s1600/6.png', name: 'Cosmic Forge', level: 'วิ่งเร็ว +30% Super Attack Hit Ability +10%', hitAtk: 125, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 0, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 120, hp: '', sp: '1500', cri: '', dcri: '15' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRM-HmJeCpXmE9Dxl-bMWtOza8h57Y6TNDpv00mFpwmPaweV8kvRhw-wNo379AULebwtz9UZGaYsl1dZ7Jcv5ASeRXJdq5ud1VciHHyi1HIb1AgRvgSgKrno9aTNgPiUB-DgvskspY981EubvgY3czpjSDpYIcnJPSxnS9vnB0GVmMada7fOGkkUVR9f4/s1600/7.png', name: 'Celestial Lord', level: 'วิ่งเร็ว +30% Super Attack Hit Ability +15%', hitAtk: 150, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 150, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 150, hp: '2000', sp: '1500', cri: '', dcri: '' },
 { img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhueOuT6K9dhcr59gnlxlCYacyA_ozdJwLT_de4tsvaBqjVyGOwnTmjwso74wNXTzTCZWKsrVCF_82mpDqWT8WHgc3ZZrIGdZBnofzwA8oyVhP01BbfKImlSp449I5JD3-rg_oWH449KT-PGmKQnNiDuxVviXQftifPryYgsByujnc3bmc9_wVVr2cFSxU/s1600/8.png', name: 'Solar Flare', level: 'วิ่งเร็ว +30% Super Attack Hit Ability +10%', hitAtk: 125, gripAtk: 0, teamAtk: 0, doubleAtk: 0, specialAtk: 0, hitDef: 120, gripDef: 0, teamDef: 0, doubleDef: 0, specialDef: 0, hp: '2500', sp: '1000', cri: '', dcri: '15' },
@@ -1351,6 +1351,7 @@ const nicknamestyleItems = [
 
 
       ];
+
 
 
 
